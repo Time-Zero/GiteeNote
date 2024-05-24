@@ -25,6 +25,12 @@ sudo apt install mysql-server -y
 ```bash
 sudo systemctl status mysql.service 
 ```
-如果显示activing就说明没有问题了
+如果显示<span style="color:rgb(0, 176, 80)">activing</span>就说明没有问题了
+
+## 登录mysql
+我们可以通过sudo直接登录 
+```bash
+sudo 
+```
 
 
