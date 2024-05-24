@@ -30,7 +30,8 @@ sudo systemctl status mysql.service
 ## 登录mysql
 我们可以通过sudo直接登录 
 ```bash
-sudo 
+sudo mysql
 ```
+
 
 
