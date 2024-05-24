@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VSCode/C++调试配置文件备份.md",
+                "file": "MySQL/WSL安装MYSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VSCode/C++调试配置文件备份.md",
+                "file": "MySQL/WSL安装MYSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VSCode/C++调试配置文件备份.md",
+                "file": "MySQL/WSL安装MYSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VSCode/C++调试配置文件备份.md"
+                "file": "MySQL/WSL安装MYSQL.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "37741a0fd1f3403c",
   "lastOpenFiles": [
     "VSCode/C++调试配置文件备份.md",
+    "MySQL/WSL安装MYSQL.md",
+    "MySQL",
     "VSCode",
     "C++",
     "Welcome.md"
