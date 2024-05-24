@@ -25,5 +25,6 @@ sudo apt install mysql-server -y
 ```bash
 sudo systemctl status mysql.service 
 ```
+如果显示activing就说明没有问题了
 
 
