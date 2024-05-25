@@ -7,6 +7,8 @@ sudo vim /etc/mysql/mysql.conf.d/mysqld.conf
 ```
 bind-server=127.0.0.1
 ```
+否则远程登录一直报`conection refuse`
+
 
 # 二、修改账号的登录验证
 ## 切换到mysql表
@@ -15,13 +17,11 @@ use mysql;
 ```
 
 
-## 查看user密码
- ```sql
- select host,user,authentication_string from user;
-```
-查看要设置的用户*authentication_string*字段是否为空
+## 设置用户密码
 ```sql
 alter user 'root'@'localhost' identified with mysql_native_password by '334859';
 ```
 如果设置弱密码就加`with mysql_native_password`
 
+# 三、允许账号远程登录
+除了修改mysql的bing'di
