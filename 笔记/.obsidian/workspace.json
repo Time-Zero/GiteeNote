@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "158d70bf693d16c5",
+        "id": "17c6915de6c9b2ab",
         "type": "tabs",
         "children": [
           {
-            "id": "37741a0fd1f3403c",
+            "id": "6723ef6237b698be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VS/VS配置高级保存选项.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VS/VS配置高级保存选项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VS/VS配置高级保存选项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "VS/VS配置高级保存选项.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,10 +138,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "37741a0fd1f3403c",
+  "active": "6723ef6237b698be",
   "lastOpenFiles": [
-    "问题备忘/VS问题.md",
+    "图片/未命名.canvas",
     "VS/VS配置高级保存选项.md",
+    "图片/Pasted image 20240525140412.png",
+    "图片",
+    "问题备忘/VS问题.md",
     "VS",
     "MySQL/MySQL修改密码和用户登录地址.md",
     "问题备忘",
