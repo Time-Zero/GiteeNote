@@ -19,4 +19,9 @@ use mysql;
  ```sql
  select host,user,authentication_string from user;
 ```
-查看要设置的用户`au`
+查看要设置的用户*authentication_string*字段是否为空
+
+* 为空,这样设置
+```sql
+alter user 'root'@'localhost' identified with 
+```
