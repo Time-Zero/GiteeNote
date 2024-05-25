@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VS/VS配置高级保存选项.md",
+                "file": "VS/VS调试信息独立终端输出.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VS/VS配置高级保存选项.md",
+                "file": "VS/VS调试信息独立终端输出.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VS/VS配置高级保存选项.md",
+                "file": "VS/VS调试信息独立终端输出.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VS/VS配置高级保存选项.md"
+                "file": "VS/VS调试信息独立终端输出.md"
               }
             }
           }
@@ -148,12 +148,15 @@
   },
   "active": "6723ef6237b698be",
   "lastOpenFiles": [
+    "VS/images/Pasted image 20240525160639.png",
+    "VS/images/Pasted image 20240525160637.png",
+    "VS/VS配置高级保存选项.md",
+    "VS/VS调试信息独立终端输出.md",
     "VS/images/Pasted image 20240525140712.png",
     "VS/images/Pasted image 20240525140637.png",
     "VS/images",
     "MySQL/MySQL修改密码和用户登录地址.md",
     "图片/未命名.canvas",
-    "VS/VS配置高级保存选项.md",
     "图片/Pasted image 20240525140412.png",
     "图片",
     "问题备忘/VS问题.md",
