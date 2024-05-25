@@ -14,3 +14,6 @@ bind-server=127.0.0.1
 use mysql;
 ```
 
+
+## 查看user密码
+如果user密码为空，则使用下面这种方法来修改密码
