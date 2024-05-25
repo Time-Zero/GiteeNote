@@ -12,8 +12,9 @@ bind-server=127.0.0.1
 
 **修改完之后记得重启mysql服务**
 ```bash
-sudo systemctl 
+sudo systemctl restart mysql.service
 ```
+
 
 
 
