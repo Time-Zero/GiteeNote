@@ -33,5 +33,4 @@ sudo systemctl status mysql.service
 sudo mysql
 ```
 
-
-
+# 设置密码和远程登录
