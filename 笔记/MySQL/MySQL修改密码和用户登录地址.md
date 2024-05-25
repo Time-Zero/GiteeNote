@@ -20,8 +20,8 @@ use mysql;
  select host,user,authentication_string from user;
 ```
 查看要设置的用户*authentication_string*字段是否为空
-
-* 为空,这样设置
 ```sql
-alter user 'root'@'localhost' identified with 
+alter user 'root'@'localhost' identified with mysql_native_password by '334859';
 ```
+如果设置弱密码就加`with mysql_native_password`
+
