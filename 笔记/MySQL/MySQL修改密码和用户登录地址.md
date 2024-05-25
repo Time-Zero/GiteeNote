@@ -9,3 +9,8 @@ bind-server=127.0.0.1
 ```
 
 # 二、修改账号的登录验证
+## 切换到mysql表
+```sql
+use mysql;
+```
+
