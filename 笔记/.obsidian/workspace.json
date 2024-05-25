@@ -11,12 +11,8 @@
             "id": "37741a0fd1f3403c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL/WSL安装MYSQL.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/WSL安装MYSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/WSL安装MYSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MySQL/WSL安装MYSQL.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +140,8 @@
   },
   "active": "37741a0fd1f3403c",
   "lastOpenFiles": [
-    "MySQL/MySQL修改密码和用户登录地址.md",
     "MySQL/WSL安装MYSQL.md",
+    "MySQL/MySQL修改密码和用户登录地址.md",
     "VSCode/C++调试配置文件备份.md",
     "MySQL",
     "VSCode",
