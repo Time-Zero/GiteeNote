@@ -16,4 +16,7 @@ use mysql;
 
 
 ## 查看user密码
-如果user密码为空，则使用下面这种方法来修改密码
+ ```sql
+ select host,user,authentication_string from user;
+```
+查看要设置的用户`au`
