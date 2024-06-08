@@ -40,4 +40,4 @@ Commands out of sync; you can't run this command now
 	return ret;
 ```
 
-利用智能指针的RAII，shou'x
+利用智能指针的RAII，手动限制生命周期，让其定时释放资源
