@@ -17,4 +17,4 @@ vcpkg integrate install
 [[在 Visual Studio 中使用 CMake 安装和管理包 | Microsoft Learn](https://learn.microsoft.com/zh-cn/vcpkg/get_started/get-started-vs?pivots=shell-cmd)]
 后面的在项目中创建
 `vcpkg.json
-的部分，在项目中创建类似pyth
+的部分，在项目中创建类似python的requirements.txt的文件
