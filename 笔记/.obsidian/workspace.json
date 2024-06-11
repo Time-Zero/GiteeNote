@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95a4a45d87a263f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6723ef6237b698be",
+  "active": "95a4a45d87a263f7",
   "lastOpenFiles": [
     "VS/VS配置高级保存选项.md",
     "C++/MySql Connector/MySQL Connnector同步问题.md",
