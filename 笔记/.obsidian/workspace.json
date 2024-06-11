@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VS/VS配置高级保存选项.md",
+                "file": "VS/VS启用vcpkg包管理工具.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VS/VS配置高级保存选项.md",
+                "file": "VS/VS启用vcpkg包管理工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VS/VS配置高级保存选项.md",
+                "file": "VS/VS启用vcpkg包管理工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VS/VS配置高级保存选项.md"
+                "file": "VS/VS启用vcpkg包管理工具.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "95a4a45d87a263f7",
   "lastOpenFiles": [
-    "VS/VS调试信息独立终端输出.md",
     "VS/VS配置高级保存选项.md",
+    "VS/VS启用vcpkg包管理工具.md",
+    "VS/VS调试信息独立终端输出.md",
     "C++/MySql Connector/MySQL Connnector同步问题.md",
     "C++/MySql Connector",
     "未命名",
