@@ -7,3 +7,5 @@
 CSP模式是Communicating Sequential Process的简称，中文可以叫做顺序通信进程，也是一种并发模型
 
 CSP和Actor类似，不过CSP将消息投递给channel，至于谁从channel中取数据，发送方是不关注的。相较于Actor模式，Actor模式在发送消息前是知道接收方是谁，而接收方收到消息后也知道发送方是谁的，更像邮件的通信模式。而CSP确是完全解耦合的 
+
+下面是一个简单的CSP实现
