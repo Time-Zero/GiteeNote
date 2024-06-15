@@ -95,17 +95,11 @@ int main(){
   
 
     std::thread consumer([&](){
-
         std::this_thread::sleep_for(std::chrono::milliseconds(500));
-
         int val;
-
         while(ch.receive(val)){
-
             std::cout << "Receive: " << val << std::endl;
-
         }
-
     });
 
   
@@ -113,9 +107,6 @@ int main(){
     producer.join();
     consumer.join();
 
-  
-
     return 0;
-
 }
 ```
