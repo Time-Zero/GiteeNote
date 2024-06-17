@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/视图/接受和基本语法.md",
+                "file": "问题备忘/VS问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/视图/接受和基本语法.md",
+                "file": "问题备忘/VS问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/视图/接受和基本语法.md",
+                "file": "问题备忘/VS问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/视图/接受和基本语法.md"
+                "file": "问题备忘/VS问题.md"
               }
             }
           }
@@ -161,8 +161,11 @@
   },
   "active": "95a4a45d87a263f7",
   "lastOpenFiles": [
+    "问题备忘/MySql Connector CPP的版本问题.md",
+    "问题备忘/VS问题.md",
+    "MySQL/视图/检查选项.md",
+    "MySQL/视图/介绍和基本语法.md",
     "MySQL/锁/全局锁.md",
-    "MySQL/视图/接受和基本语法.md",
     "MySQL/视图",
     "VSCode/C++调试配置文件备份.md",
     "MySQL/锁",
@@ -184,8 +187,6 @@
     "作业/信息安全/第三次作业.md",
     "作业/信息安全",
     "作业",
-    "问题备忘/VS问题.md",
-    "问题备忘/MySql Connector CPP的版本问题.md",
     "VS/images/Pasted image 20240525160639.png",
     "VS/images/Pasted image 20240525160637.png",
     "VS/images/Pasted image 20240525140712.png",
