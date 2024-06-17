@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/视图/介绍和基本语法.md",
+                "file": "MySQL/视图/检查选项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/视图/介绍和基本语法.md",
+                "file": "MySQL/视图/检查选项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/视图/介绍和基本语法.md"
+                "file": "MySQL/视图/检查选项.md"
               }
             }
           }
@@ -159,11 +158,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2fbf925e64c0a064",
+  "active": "95a4a45d87a263f7",
   "lastOpenFiles": [
+    "MySQL/视图/介绍和基本语法.md",
     "MySQL/视图/检查选项.md",
     "C++/MySql Connector/MySQL Connnector同步问题.md",
-    "MySQL/视图/介绍和基本语法.md",
     "问题备忘/MySql Connector CPP的版本问题.md",
     "问题备忘/VS问题.md",
     "MySQL/锁/全局锁.md",
