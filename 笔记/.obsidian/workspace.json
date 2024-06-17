@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95a4a45d87a263f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MySQL/视图/检查选项.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2fbf925e64c0a064",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95a4a45d87a263f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/视图/检查选项.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
