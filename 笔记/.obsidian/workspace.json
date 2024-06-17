@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VSCode/C++调试配置文件备份.md",
+                "file": "MySQL/锁/全局锁.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VSCode/C++调试配置文件备份.md",
+                "file": "MySQL/锁/全局锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VSCode/C++调试配置文件备份.md",
+                "file": "MySQL/锁/全局锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VSCode/C++调试配置文件备份.md"
+                "file": "MySQL/锁/全局锁.md"
               }
             }
           }
@@ -159,8 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "95a4a45d87a263f7",
+  "active": "587ca79819de8ec5",
   "lastOpenFiles": [
+    "MySQL/视图",
+    "VSCode/C++调试配置文件备份.md",
+    "MySQL/锁/全局锁.md",
+    "MySQL/锁",
     "C++/并发编程/原子操作和内存模型.md",
     "C++/并发编程/Actor和CSP设计模式.md",
     "作业/信息安全/第五次作业.md",
@@ -190,8 +194,6 @@
     "图片/Pasted image 20240525140412.png",
     "图片",
     "VS",
-    "问题备忘",
-    "VSCode/C++调试配置文件备份.md",
     "Welcome.md"
   ]
 }
