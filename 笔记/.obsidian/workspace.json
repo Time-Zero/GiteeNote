@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/B+树/B+树.md",
+                "file": "MySQL/事务/四大特性.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/B+树/B+树.md",
+                "file": "MySQL/事务/四大特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/B+树/B+树.md",
+                "file": "MySQL/事务/四大特性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/B+树/B+树.md"
+                "file": "MySQL/事务/四大特性.md"
               }
             }
           }
@@ -146,14 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "587ca79819de8ec5",
+  "active": "95a4a45d87a263f7",
   "lastOpenFiles": [
+    "MySQL/事务/启用事务.md",
+    "MySQL/事务/四大特性.md",
+    "未命名.md",
+    "MySQL/B+树/B+树.md",
     "MySQL/InnoDB引擎",
     "MySQL/B+树/images/Pasted image 20240618093428.png",
     "MySQL/B+树/images/Pasted image 20240618093251.png",
     "MySQL/B+树/images",
     "MySQL/锁/全局锁.md",
-    "MySQL/B+树/B+树.md",
     "MySQL/锁/行级锁.md",
     "MySQL/锁/表级锁.md",
     "MySQL/事务",
@@ -182,7 +185,6 @@
     "C++/MySql Connector",
     "未命名",
     "作业/信息安全/第三次作业.md",
-    "作业/信息安全",
     "VS/images/Pasted image 20240525160639.png",
     "VS/images/Pasted image 20240525160637.png",
     "VS/images/Pasted image 20240525140712.png",
