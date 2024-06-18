@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "17c6915de6c9b2ab",
+        "id": "660a6a49e7177ed0",
         "type": "tabs",
         "children": [
           {
-            "id": "95a4a45d87a263f7",
+            "id": "01b8c313eba170e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/事务/数据库的隔离级别.md",
+                "file": "Redis/简介.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/事务/数据库的隔离级别.md",
+                "file": "Redis/简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/事务/数据库的隔离级别.md",
+                "file": "Redis/简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/事务/数据库的隔离级别.md"
+                "file": "Redis/简介.md"
               }
             }
           }
@@ -146,11 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "95a4a45d87a263f7",
+  "active": "01b8c313eba170e8",
   "lastOpenFiles": [
+    "MySQL/锁/行级锁.md",
+    "Redis/简介.md",
+    "MySQL/SQL优化",
+    "MySQL/SQL.md",
+    "Redis",
+    "MySQL/事务/数据库的隔离级别.md",
     "MySQL/事务/并发事务引发的问题.md",
     "MySQL/事务/四大特性.md",
-    "MySQL/事务/数据库的隔离级别.md",
     "MySQL/事务/启用事务.md",
     "未命名.md",
     "MySQL/B+树/B+树.md",
@@ -159,7 +164,6 @@
     "MySQL/B+树/images/Pasted image 20240618093251.png",
     "MySQL/B+树/images",
     "MySQL/锁/全局锁.md",
-    "MySQL/锁/行级锁.md",
     "MySQL/锁/表级锁.md",
     "MySQL/事务",
     "MySQL/B+树",
@@ -183,10 +187,6 @@
     "问题备忘/winsock有关报错.md",
     "VS/VS启用vcpkg包管理工具.md",
     "VS/VS配置高级保存选项.md",
-    "VS/VS调试信息独立终端输出.md",
-    "C++/MySql Connector",
-    "未命名",
-    "作业/信息安全/第三次作业.md",
     "VS/images/Pasted image 20240525160639.png",
     "VS/images/Pasted image 20240525160637.png",
     "VS/images/Pasted image 20240525140712.png",
