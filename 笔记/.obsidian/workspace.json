@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "95a4a45d87a263f7",
+  "active": "587ca79819de8ec5",
   "lastOpenFiles": [
+    "MySQL/InnoDB引擎",
+    "MySQL/B+树/images/Pasted image 20240618093428.png",
     "MySQL/B+树/images/Pasted image 20240618093251.png",
     "MySQL/B+树/images",
     "MySQL/锁/全局锁.md",
