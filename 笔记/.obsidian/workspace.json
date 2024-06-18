@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/锁/表级锁.md",
+                "file": "MySQL/锁/行级锁.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/锁/表级锁.md",
+                "file": "MySQL/锁/行级锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/锁/表级锁.md",
+                "file": "MySQL/锁/行级锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/锁/表级锁.md"
+                "file": "MySQL/锁/行级锁.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "587ca79819de8ec5",
   "lastOpenFiles": [
-    "MySQL/锁/全局锁.md",
+    "MySQL/事务",
+    "MySQL/B+树",
     "MySQL/锁/表级锁.md",
+    "MySQL/锁/行级锁.md",
+    "MySQL/锁/全局锁.md",
     "MySQL/MySQL修改密码和用户登录地址.md",
     "MySQL/视图/更新及作用.md",
     "MySQL/视图/检查选项.md",
@@ -183,7 +186,6 @@
     "VS/images",
     "图片/未命名.canvas",
     "图片/Pasted image 20240525140412.png",
-    "图片",
     "Welcome.md"
   ]
 }
