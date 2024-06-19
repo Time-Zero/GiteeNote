@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库系统复习/一、数据库基础知识.md",
+                "file": "数据库系统复习/二、关系模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库系统复习/一、数据库基础知识.md",
+                "file": "数据库系统复习/二、关系模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库系统复习/一、数据库基础知识.md",
+                "file": "数据库系统复习/二、关系模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库系统复习/一、数据库基础知识.md"
+                "file": "数据库系统复习/二、关系模型.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "01b8c313eba170e8",
   "lastOpenFiles": [
+    "数据库系统复习/一、数据库基础知识.md",
+    "数据库系统复习/二、关系模型.md",
     "数据库系统复习/images/Pasted image 20240619195434.png",
     "数据库系统复习/images/Pasted image 20240619192544.png",
     "数据库系统复习/images/Pasted image 20240619191554.png",
@@ -158,10 +160,8 @@
     "数据库系统复习/images/Pasted image 20240619190208.png",
     "数据库系统复习/images/Pasted image 20240619190127.png",
     "数据库系统复习/images/Pasted image 20240619190041.png",
-    "数据库系统复习/images/Pasted image 20240619185912.png",
     "数据库系统复习/images",
     "C++/并发编程/原子操作和内存模型.md",
-    "数据库系统复习/一、数据库基础知识.md",
     "数据库系统复习",
     "C++/并发编程/Actor和CSP设计模式.md",
     "Redis/简介.md",
