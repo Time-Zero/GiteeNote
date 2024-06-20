@@ -91,7 +91,35 @@ create table sc(
 );
 ```
 
-# 3.2 数据定义
+## 修改
+![[Pasted image 20240620121720.png]]
 
+**例:**
+```SQL
+--向表中添加s_entrance 属性，数据类型为date
+alter table student add s_enterance date;
+
+--将表中sage属性修改为int
+alter table student alter column sage int;
+
+--增加course表中cname属性的唯一性约束
+alter table course add constraint uncame unique(cname);
+
+--删除约束
+alter table course drop constraint uncname;
+
+--删除行
+alter table student drop column s_entrance;
+```
+
+## 删除
+```SQL 
+drop table 表名 [restrict | cascade]
+```
+* restrict：删除表是有限制的
+	* 想要删除的表不能被其他的表的约束所使用
+	* 如果存在依赖该表的对象（比如视图），则此表不能被删除
+* cascade：删除该表没有限制
+	* 在删除表的同时，相关的依赖对象一起删除
 
 
