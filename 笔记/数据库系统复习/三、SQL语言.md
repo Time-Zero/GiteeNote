@@ -321,6 +321,8 @@ select spno,count(*) from student group by spno;
 * 索引连接
 
 ### 笛卡尔积（无条件连接, R1 cross join R2）
+笛卡尔积返回的结果是表一中的每一行和表二中的每一行组合后的结果
+
 ```sql
 --查询已经选课的学生名单
 select distinct student.sno,sname from student cross join sc;
@@ -336,5 +338,57 @@ select distinct student.sno, sname from student,sc;
 
 ### 等值连接
 ```sql
---c
+--查询学生的所选课程编号
+select student.sno,sname,cno from student join sc on(student.sno = sc.sno);
 ```
+不同于普通的`select`语句，`join`后如果想要指定两个表之间的条件，需要使用`on`关键字而非`where`关键字
+![[Pasted image 20240620192343.png]]
+
+也可以写成
+```sql
+select student.sno, sname, cno from student, sc where student.sno = sc.sno;
+```
+这里没有使用`join`关键字，所以也就还是使用`where`指定条件
+
+### 自然连接
+```sql
+--查询选课学生信息
+select * from student natural join sc;
+```
+natural这个关键字好像还真没几个数据库支持
+
+### 自身连接（自连接）
+```sql
+--查询同时选修了c104和c210课的同学
+select sc1.sno from sc sc1, sc sc2 where sc1.sno = sc2.sno and sc1.sno = 'c104' and sc2.sno = 'c210';
+```
+注意：自连接必须为自己取两个别名，不然无法区分结果，这里就给sc取了sc1和sc2两个别名
+
+### 外连接
+* 左外连接
+* 右外连接
+* 全外连接
+```sql
+--左外连接
+select student.sno sname, cno from student left join sc on(student.sno = sc.sno and cno='c210');
+```
+是`student`表`left join`表`sc`所以是以`student`表为主
+
+![[Pasted image 20240620193123.png]]
+
+
+### 多表连接
+```sql
+ --多表连接
+ select student.sno,sname,t_d.dno,dname from student, t_sp, t_d where student.spon = t_sp.spno and t_sp.dno = t_d.dno;
+```
+![[Pasted image 20240620193300.png]]
+
+### 总结
+那么多连接，实际用的就是下面几个
+* 内连接
+* 外连接
+	* 左外
+	* 右外
+
+## 3.3.3 
