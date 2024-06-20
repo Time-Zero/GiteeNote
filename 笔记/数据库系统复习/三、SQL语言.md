@@ -315,3 +315,5 @@ select spno,count(*) from student group by spno;
 ```
 
 ## 3.3.2 多表连接查询
+连接操作的几种执行方式：
+* 嵌套循环
