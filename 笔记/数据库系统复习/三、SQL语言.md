@@ -311,5 +311,7 @@ select sname,count(*) from student group by spno;
 
 正确的是
 ```sql
-select spno,count(*) from student group by 
+select spno,count(*) from student group by spno;
 ```
+
+## 3.3.2 多表连接查询
