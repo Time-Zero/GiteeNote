@@ -419,3 +419,17 @@ select * from student where spon = (select spon from student where sname = '李�
 select * from student where age < any(select sage from student where spon = '03') and spon <> '03';
 ```
 
+### exists
+这纯纯靠背的
+![[Pasted image 20240620201704.png]]
+
+![[Pasted image 20240620201715.png]]
+## 3.3.4 集合查询
+
+* union:并
+* intersect：交
+* except:差
+```sql
+--查询非计算机系，或者没有选修课程的学生
+select sno,sn
+```
