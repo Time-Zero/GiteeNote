@@ -175,5 +175,71 @@ drop index scno on sc;
 
 ## 3.3.1 单表查询
 ```SQL
-select sno ,sname from student;
+--显示学生表中所有学生的学号和姓名并且在查询结果中使用‘学号’和‘姓名’代替列名
+select sno 学号,sname 姓名 from student;
+```
+
+```SQL
+--从学生选课表中查询所有学生的学号，并且去重
+select distinct sno from sc;
+```
+`distinct`这个参数就是去除重复值
+
+```SQL
+--从学生表中查询所有学生的学号、姓名、并且使用时间减去年纪表示出生时间
+select sno,sname, 2020-sage from student;
+```
+上面这个例子也就是可以直接在`select`语句中进行简单的数值计算
+
+```SQL
+select sno,sname,'合肥工业大学' from student;
+```
+显示结果如下
+![[Pasted image 20240620163919.png]]
+这也就是笛卡尔积了，查询结果 x '合肥工业大学' 
+
+### 条件查询
+条件查询也就是使用`where`子句对进行条件查询
+```SQL
+--查询student表中学号为'2021218192'的学生的所有信息
+select * from student where sno = '2021218192';
+```
+
+```sql
+--查询student表中03班的并且性别为男的学生的所有信息
+select * from student where spno='03' and ssex='男';
+```
+
+```sql
+--查询学生表中年纪在20和22之间的学生的所有信息
+select * from student where sage between 20 and 22;
+```
+
+```sql
+--查询学生表中所有年纪是20或者22的学生的所有信息
+select * from student where sage in (20,22);
+```
+要注意`between...and...`结构和`in`的区别
+
+
+### 字符串匹配
+实际也就是使用`like`
+![[Pasted image 20240620164449.png]]
+```sql
+--查询学生表中名字第一个字为`宋`，并且名字是两个字的人
+select * from student where sname like '宋_';
+```
+这里`_`符号是占位符，代表一个字符，如果想查询`宋xx`，就要使用`宋__`了
+![[Pasted image 20240620164755.png]]
+
+```sql
+select * from student where sname like '%胜%';
+```
+这里`%`是指可能存在这个字符，也就是`%`所在的位置要么是一个字符，要么是空的
+![[Pasted image 20240620164804.png]]
+
+### 涉及空值的查询
+![[Pasted image 20240620164839.png]]
+```sql
+select * from sc where cno='c104' and grage is not null;
 ```
