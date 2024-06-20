@@ -133,4 +133,47 @@ drop table 表名 [restrict | cascade]
 	* 位图索引等
 * 谁可以建立索引
 	* DBA或者表的建立者
-	* 
+	* DBMS一般会自动建立以下类型的索引
+		* primary key
+		* unique
+* 谁维护索引
+	* DBMS
+* 谁使用索引
+	* DBMS会自动选择使用哪些索引
+
+### 索引的建立
+![[Pasted image 20240620162044.png]]
+
+* unique：唯一性索引，是非聚集索引，一个表可以建立多个唯一性索引，并且唯一性索引可以不按照数据的顺序来排序，也可以按照数据的顺序来排序
+	* unique索引实际建立的是指向数据的指针
+* clustered：物理索引，是聚集索引，一个表只能够建立一个聚集索引，并且建立的聚集索引一定有顺序的
+	* clustered索引才是真正的索引，他把数据和索引放在同一位置，索引直接指向数据，所以只能建立一个
+
+```sql
+create clustered index stname on student(sname);
+
+create unique index stusno on student(sno);
+
+create unique index coucno on course(cno);
+
+create unique index scno on sc(sno asc, cno desc);
+```
+注意，注意最后一种索引的建立方式，索引是建立在多个属性上的，而且制定了数据的顺序
+
+### 删除索引
+![[Pasted image 20240620162747.png]]
+```SQL
+drop index scno on sc;
+```
+
+# 3.3 数据查询
+![[Pasted image 20240620163220.png]]
+这个图实在是复杂，还是得看具体情况
+
+## 查询条件
+![[Pasted image 20240620163255.png]]
+
+## 3.3.1 单表查询
+```SQL
+select sno ,sname from student;
+```
