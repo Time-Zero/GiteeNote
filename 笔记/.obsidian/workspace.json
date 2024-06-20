@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "13052bfe58b8d5c8",
+        "id": "d0cad483b391c46b",
         "type": "tabs",
         "children": [
           {
-            "id": "3ab2fe5184310058",
+            "id": "b21fa899ffa41687",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "数据库系统复习/四、数据库的安全性.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "数据库系统复习/四、数据库的安全性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "数据库系统复习/四、数据库的安全性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "数据库系统复习/四、数据库的安全性.md"
+              }
             }
           }
         ],
@@ -138,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3ab2fe5184310058",
+  "active": "b21fa899ffa41687",
   "lastOpenFiles": [
+    "数据库系统复习/四、数据库的安全性.md",
     "数据库系统复习/零、目录.md",
     "数据库系统复习/三、SQL语言.md",
     "MYSQL/视图.md",
@@ -184,7 +193,6 @@
     "MySQL/MySQL修改密码和用户登录地址.md",
     "MySQL/视图/更新及作用.md",
     "C++/MySql Connector/MySQL Connnector同步问题.md",
-    "问题备忘/MySql Connector CPP的版本问题.md",
     "MySQL/视图",
     "MySQL/锁",
     "图片/未命名.canvas"
