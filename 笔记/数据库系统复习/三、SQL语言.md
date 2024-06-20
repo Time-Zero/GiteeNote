@@ -431,5 +431,59 @@ select * from student where age < any(select sage from student where spon = '03'
 * except:差
 ```sql
 --查询非计算机系，或者没有选修课程的学生
-select sno,sn
+select sno,sname from student where in (select spon frim t_sp where dno in (select dno from t_d where dname <> '计算机' ))
+unino 
+select sno,sname from student where sno not in (select student.sno from student,sc where student.sno = sc.sno);
+```
+
+```sql
+--查询同时选择了'c210'和'c211'课程的学生学号和姓名
+select sno,sname from student where sno in (
+(select sno from sc where cno='c210')
+intersect
+(select sno from sc where cno='c211')
+) ;
+```
+
+```sql
+--查询没有选择'c211'课程的学生学号
+select sno from student 
+except 
+select sno from sc where cno='c211';
+```
+
+## 3.3.5 基于派生表的查询
+就是把一个`select`查询的结果放在另一个`select-from`结构的`from`位置
+
+# 3.4 数据更新
+* 插入（insert）
+* 修改 (update)
+* 删除 (delete)
+
+## 1. 插入数据
+### 插入元组
+![[Pasted image 20240620202611.png]]
+
+### 插入子查询结果
+![[Pasted image 20240620202632.png]]
+
+### 样例
+![[Pasted image 20240620202732.png]]
+
+## 2. 修改数据
+![[Pasted image 20240620202752.png]]
+
+### 样例
+```sql'
+update t_t set tphone='18905510123' where tname = '高球'；
+
+update sc set grade=80 where cno='c210' and '03' = (select spon from student where student.sno = sc.sno);
+```
+
+### 3. 删除数据
+![[Pasted image 20240620203343.png]]
+
+```sql
+--删除学生张三的信息
+delete from student where sname
 ```
