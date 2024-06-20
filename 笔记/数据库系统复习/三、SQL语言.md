@@ -243,3 +243,73 @@ select * from student where sname like '%胜%';
 ```sql
 select * from sc where cno='c104' and grage is not null;
 ```
+
+### 对结果进行排序的查询
+![[Pasted image 20240620165015.png]]
+**注意默认就是升序的，并且空值在数据库中代表无穷小**
+```sql
+--结果排序，专业号升序、年龄降序
+select * from student order by spno, sage desc;
+```
+![[Pasted image 20240620165149.png]]
+
+### 基于统计的查询(聚集函数)
+![[Pasted image 20240620165217.png]]
+
+```sql
+--查询学生总人数 
+select count(*) from student;
+```
+
+```sql
+--这也是查询学生总人数
+select count(spno) from student;
+```
+
+```sql
+--这是查询专业数了
+select count(distinct spno) from student;
+```
+
+```sql
+select sum(grade) from sc where cno='c104';
+```
+`sum`是求和，并且自动忽略空值
+
+```sql
+select avg(grage) from sc where cno='c104';
+```
+`avg` 是求均值，也是忽略`null`的
+
+```sql
+select max(grade) from sc where cno='c104';
+```
+`max`是求最大值，并且也是忽略`null`的
+
+```sql
+select min(grage) from sc where cno='c104';
+```
+求最小值，其他同上
+
+### 基于分组查询（group by子句）
+先把查询结果分组，然后再运行`select`后面紧跟着的要显示的属性
+* 细化聚集函数的作用对象
+* 作用对象是查询的中间信息表（作用对象是`from...where...`的返回值）
+* 按照指定的一列或者多列值分组
+```sql
+select cno,count(sno) from sc group by cno;
+```
+先把sc表中的符合条件的返回（这里没有where子句，所以sc表全部返回），然后按照`cno`属性分组，最后执行`select cno,count(sno)`部分，即显示`cno`列并且对`sno`列进行统计
+![[Pasted image 20240620170003.png]]
+
+#### 注意
+`group by`的分组条件一定要在`select`后面得到展现，例如 
+```sql
+select sname,count(*) from student group by spno;
+```
+就是一个错误的sql语句，因为分组条件`spno`没有在`select`后面
+
+正确的是
+```sql
+select spno,count(*) from student group by 
+```
