@@ -391,4 +391,31 @@ select student.sno sname, cno from student left join sc on(student.sno = sc.sno 
 	* 左外
 	* 右外
 
-## 3.3.3 
+## 3.3.3 嵌套连接
+把一个`select-from-where`查询的结果作为另一个`select-from-where`的查询块
+
+**注意**
+* 子查询不能使用order by子句
+* 将另一个select结果放入另一个查询块的where或者having短语块中
+
+### 带有`in`子句的查询
+
+```sql
+--嵌套查询
+select sno,sname from student where sno in (select sno from sc where cno='c104');
+```
+![[Pasted image 20240620193843.png]]
+
+
+### 带有比较运算符的子查询
+* 使用比较运算符的前提是你能确认内查询返回的是单值
+```sql
+select * from student where spon = (select spon from student where sname = '李逵');
+```
+
+例子：
+查询其他专业中比软件工程专业任意一个学生学生年龄小的学生
+```sql
+select * from student where age < any(select sage from student where spon = '03') and spon <> '03';
+```
+
