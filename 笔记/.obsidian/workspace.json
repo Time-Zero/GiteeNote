@@ -148,8 +148,9 @@
   },
   "active": "01b8c313eba170e8",
   "lastOpenFiles": [
-    "数据库系统复习/二、关系模型.md",
     "数据库系统复习/三、SQL语言.md",
+    "数据库系统复习/images/Pasted image 20240620104819.png",
+    "数据库系统复习/二、关系模型.md",
     "数据库系统复习/images/Pasted image 20240620101836.png",
     "数据库系统复习/images/Pasted image 20240620101832.png",
     "数据库系统复习/images/Pasted image 20240620101826.png",
@@ -159,7 +160,6 @@
     "数据库系统复习/images/Pasted image 20240620100758.png",
     "数据库系统复习/images/Pasted image 20240620100743.png",
     "数据库系统复习/images/Pasted image 20240620100718.png",
-    "数据库系统复习/images/Pasted image 20240620100452.png",
     "数据库系统复习/一、数据库基础知识.md",
     "数据库系统复习/images",
     "C++/并发编程/原子操作和内存模型.md",
@@ -193,7 +193,6 @@
     "VSCode/C++调试配置文件备份.md",
     "MySQL/锁",
     "作业/信息安全/第五次作业.md",
-    "MySQL/WSL安装MYSQL.md",
     "图片/未命名.canvas"
   ]
 }
