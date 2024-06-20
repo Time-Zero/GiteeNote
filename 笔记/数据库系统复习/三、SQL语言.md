@@ -317,3 +317,24 @@ select spno,count(*) from student group by spno;
 ## 3.3.2 多表连接查询
 连接操作的几种执行方式：
 * 嵌套循环
+* 排序合并
+* 索引连接
+
+### 笛卡尔积（无条件连接, R1 cross join R2）
+```sql
+--查询已经选课的学生名单
+select distinct student.sno,sname from student cross join sc;
+```
+
+或者这样的格式
+```sql
+select distinct student.sno, sname from student,sc; 
+```
+
+查询结果 
+![[Pasted image 20240620191832.png]]
+
+### 等值连接
+```sql
+--c
+```
