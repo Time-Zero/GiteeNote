@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "660a6a49e7177ed0",
+        "id": "13052bfe58b8d5c8",
         "type": "tabs",
         "children": [
           {
-            "id": "01b8c313eba170e8",
+            "id": "3ab2fe5184310058",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库系统复习/三、SQL语言.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库系统复习/三、SQL语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库系统复习/三、SQL语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "数据库系统复习/三、SQL语言.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,11 +138,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "01b8c313eba170e8",
+  "active": "3ab2fe5184310058",
   "lastOpenFiles": [
+    "数据库系统复习/零、目录.md",
+    "数据库系统复习/三、SQL语言.md",
+    "MYSQL/视图.md",
+    "MySQL/视图.md",
+    "MySQL/视图/检查选项.md",
+    "MySQL/视图/介绍和基本语法.md",
+    "数据库系统复习/images/Pasted image 20240620203739.png",
     "数据库系统复习/images/Pasted image 20240620203343.png",
     "2024-06-20.md",
-    "数据库系统复习/三、SQL语言.md",
     "未命名.canvas",
     "数据库系统复习/images/Pasted image 20240620202752.png",
     "数据库系统复习/images/Pasted image 20240620202732.png",
@@ -160,8 +158,6 @@
     "数据库系统复习/images/Pasted image 20240620201704.png",
     "数据库系统复习/images/Pasted image 20240620201650.png",
     "数据库系统复习/images/Pasted image 20240620193843.png",
-    "数据库系统复习/images/Pasted image 20240620193300.png",
-    "数据库系统复习/images/Pasted image 20240620193123.png",
     "数据库系统复习/二、关系模型.md",
     "数据库系统复习/一、数据库基础知识.md",
     "数据库系统复习/images",
@@ -187,13 +183,9 @@
     "MySQL/B+树",
     "MySQL/MySQL修改密码和用户登录地址.md",
     "MySQL/视图/更新及作用.md",
-    "MySQL/视图/检查选项.md",
-    "MySQL/视图/介绍和基本语法.md",
     "C++/MySql Connector/MySQL Connnector同步问题.md",
     "问题备忘/MySql Connector CPP的版本问题.md",
-    "问题备忘/VS问题.md",
     "MySQL/视图",
-    "VSCode/C++调试配置文件备份.md",
     "MySQL/锁",
     "图片/未命名.canvas"
   ]

@@ -485,5 +485,28 @@ update sc set grade=80 where cno='c210' and '03' = (select spon from student whe
 
 ```sql
 --删除学生张三的信息
-delete from student where sname
+delete from student where sname='张三';
+
+--删除选了'c210'这这门课，并且是'03'这个系的学生
+delete from sc where cno = 'c210' and '03' = (select spon from student where student.sno = sc.sno);
 ```
+
+# 3.5 视图
+**什么是视图：**
+* 一个虚表，从一个或几个基本表或者视图导出的表
+* 只存放视图的定义，但是具体的数据还是在基表中
+* 基表中的数据发生变化，从视图中查询出的数据也发生变化
+
+## 3.5.1 定义视图
+
+这里还是看[[介绍和基本语法]]
+### 1. 创建视图
+![[Pasted image 20240620203739.png]]
+
+### 2. 视图的作用
+1. 简化用户操作
+2. 使得用户可以从多个角度看待同一数据
+3. 视图让数据拥有了一定的独立性，为重构数据库提供了一定的逻辑独立性
+4. 视图能够对机密数据提供安全保护
+5. 适当的利用视图可以更清晰的表达查询
+
