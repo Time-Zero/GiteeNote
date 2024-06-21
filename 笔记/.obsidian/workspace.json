@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库系统复习/四、数据库的安全性.md",
+                "file": "数据库系统复习/五、数据库完整性.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库系统复习/四、数据库的安全性.md",
+                "file": "数据库系统复习/五、数据库完整性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库系统复习/四、数据库的安全性.md",
+                "file": "数据库系统复习/五、数据库完整性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库系统复习/四、数据库的安全性.md"
+                "file": "数据库系统复习/五、数据库完整性.md"
               }
             }
           }
@@ -146,17 +146,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "587ca79819de8ec5",
+  "active": "b21fa899ffa41687",
   "lastOpenFiles": [
-    "未命名.md",
+    "数据库系统复习/images/Pasted image 20240621193130.png",
     "数据库系统复习/四、数据库的安全性.md",
+    "数据库系统复习/三、SQL语言.md",
+    "数据库系统复习/五、数据库完整性.md",
+    "未命名.md",
     "数据库系统复习/零、目录.md",
     "数据库系统复习/images/Pasted image 20240621165224.png",
     "数据库系统复习/images/Pasted image 20240621164531.png",
     "数据库系统复习/images/Pasted image 20240620212656.png",
     "数据库系统复习/images/Pasted image 20240620212135.png",
     "数据库系统复习/images/Pasted image 20240620211916.png",
-    "数据库系统复习/三、SQL语言.md",
     "MYSQL/视图.md",
     "MySQL/视图.md",
     "MySQL/视图/检查选项.md",
@@ -191,7 +193,6 @@
     "MySQL/事务",
     "MySQL/B+树",
     "MySQL/MySQL修改密码和用户登录地址.md",
-    "MySQL/视图/更新及作用.md",
     "MySQL/视图",
     "MySQL/锁",
     "图片/未命名.canvas"
