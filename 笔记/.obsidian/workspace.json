@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6fa71bb4b61a067f",
@@ -146,7 +148,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "587ca79819de8ec5",
+  "active": "506ffa8680dce3f8",
   "lastOpenFiles": [
     "Drongo框架",
     "数据库系统复习/images/Pasted image 20240621193130.png",
