@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/索引/1.性能分析.md",
+                "file": "MySQL/索引/2.使用规则.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/索引/1.性能分析.md",
+                "file": "MySQL/索引/2.使用规则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/索引/1.性能分析.md",
+                "file": "MySQL/索引/2.使用规则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/索引/1.性能分析.md"
+                "file": "MySQL/索引/2.使用规则.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "b21fa899ffa41687",
   "lastOpenFiles": [
+    "MySQL/索引/1.性能分析.md",
+    "MySQL/索引/2.使用规则.md",
     "MySQL/索引/images/Pasted image 20240624101702.png",
     "MySQL/索引/images",
     "数据库系统复习/五、数据库完整性.md",
-    "MySQL/索引/1.性能分析.md",
     "MySQL/索引",
     "Drongo框架",
     "数据库系统复习/images/Pasted image 20240621193130.png",
@@ -173,7 +174,6 @@
     "2024-06-20.md",
     "未命名.canvas",
     "数据库系统复习/images/Pasted image 20240620202752.png",
-    "数据库系统复习/images/Pasted image 20240620202732.png",
     "数据库系统复习/二、关系模型.md",
     "数据库系统复习/一、数据库基础知识.md",
     "数据库系统复习/images",
