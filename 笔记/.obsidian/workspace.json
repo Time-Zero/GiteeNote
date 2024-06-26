@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/MySQL修改密码和用户登录地址.md",
+                "file": "MySQL/InnoDB引擎/2.架构.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/MySQL修改密码和用户登录地址.md",
+                "file": "MySQL/InnoDB引擎/2.架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/MySQL修改密码和用户登录地址.md",
+                "file": "MySQL/InnoDB引擎/2.架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/MySQL修改密码和用户登录地址.md"
+                "file": "MySQL/InnoDB引擎/2.架构.md"
               }
             }
           }
@@ -148,6 +148,14 @@
   },
   "active": "b21fa899ffa41687",
   "lastOpenFiles": [
+    "MySQL/InnoDB引擎/images/Pasted image 20240626095121.png",
+    "MySQL/InnoDB引擎/1.逻辑存储结构.md",
+    "MySQL/InnoDB引擎/images/Pasted image 20240626093946.png",
+    "MySQL/InnoDB引擎/images",
+    "MySQL/InnoDB引擎/4.MVCC.md",
+    "MySQL/InnoDB引擎/3.事务原理.md",
+    "MySQL/InnoDB引擎/2.架构.md",
+    "MySQL/MySQL修改密码和用户登录地址.md",
     "MySQL/索引/2.使用规则.md",
     "MySQL/索引/1.性能分析.md",
     "MySQL/索引/images/Pasted image 20240624101702.png",
@@ -173,7 +181,6 @@
     "数据库系统复习/images/Pasted image 20240620203343.png",
     "2024-06-20.md",
     "未命名.canvas",
-    "数据库系统复习/images/Pasted image 20240620202752.png",
     "数据库系统复习/二、关系模型.md",
     "数据库系统复习/一、数据库基础知识.md",
     "数据库系统复习/images",
@@ -186,15 +193,8 @@
     "MySQL/SQL.md",
     "Redis",
     "MySQL/事务/数据库的隔离级别.md",
-    "MySQL/事务/并发事务引发的问题.md",
-    "MySQL/事务/四大特性.md",
-    "MySQL/事务/启用事务.md",
-    "MySQL/B+树/B+树.md",
     "MySQL/InnoDB引擎",
     "MySQL/B+树/images",
-    "MySQL/锁/全局锁.md",
-    "MySQL/锁/表级锁.md",
-    "MySQL/事务",
     "图片/未命名.canvas"
   ]
 }
