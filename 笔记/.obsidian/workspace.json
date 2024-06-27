@@ -148,6 +148,8 @@
   },
   "active": "b21fa899ffa41687",
   "lastOpenFiles": [
+    "MySQL/InnoDB引擎/images/Pasted image 20240627145837.png",
+    "MySQL/InnoDB引擎/images/Pasted image 20240627145151.png",
     "MySQL/WSL安装MYSQL.md",
     "Redis/简介.md",
     "MySQL/InnoDB引擎/4.MVCC.md",
@@ -176,7 +178,6 @@
     "数据库系统复习/三、SQL语言.md",
     "未命名.md",
     "数据库系统复习/零、目录.md",
-    "数据库系统复习/images/Pasted image 20240621165224.png",
     "MYSQL/视图.md",
     "MySQL/视图.md",
     "MySQL/视图/检查选项.md",
@@ -193,7 +194,6 @@
     "MySQL/SQL优化",
     "MySQL/SQL.md",
     "Redis",
-    "MySQL/事务/数据库的隔离级别.md",
     "MySQL/InnoDB引擎",
     "图片/未命名.canvas"
   ]
