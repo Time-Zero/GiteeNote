@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "Redis/1.Redis安装配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "Redis/1.Redis安装配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "Redis/1.Redis安装配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md"
+                "file": "Redis/1.Redis安装配置.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "b21fa899ffa41687",
   "lastOpenFiles": [
+    "Redis/0.简介.md",
+    "Redis/1.Redis安装配置.md",
+    "MySQL/InnoDB引擎/4.MVCC.md",
     "MySQL/InnoDB引擎/images/Pasted image 20240627145837.png",
     "MySQL/InnoDB引擎/images/Pasted image 20240627145151.png",
     "MySQL/WSL安装MYSQL.md",
-    "Redis/简介.md",
-    "MySQL/InnoDB引擎/4.MVCC.md",
     "MySQL/InnoDB引擎/3.事务原理.md",
     "MySQL/InnoDB引擎/images/Pasted image 20240627110505.png",
     "MySQL/InnoDB引擎/images/Pasted image 20240627110014.png",
@@ -173,7 +174,6 @@
     "数据库系统复习/五、数据库完整性.md",
     "MySQL/索引",
     "Drongo框架",
-    "数据库系统复习/images/Pasted image 20240621193130.png",
     "数据库系统复习/四、数据库的安全性.md",
     "数据库系统复习/三、SQL语言.md",
     "未命名.md",
