@@ -148,8 +148,9 @@
   },
   "active": "b21fa899ffa41687",
   "lastOpenFiles": [
-    "Redis/0.简介.md",
+    "redis下载.md",
     "Redis/1.Redis安装配置.md",
+    "Redis/0.简介.md",
     "MySQL/InnoDB引擎/4.MVCC.md",
     "MySQL/InnoDB引擎/images/Pasted image 20240627145837.png",
     "MySQL/InnoDB引擎/images/Pasted image 20240627145151.png",
@@ -192,7 +193,6 @@
     "C++/并发编程/Actor和CSP设计模式.md",
     "MySQL/锁/行级锁.md",
     "MySQL/SQL优化",
-    "MySQL/SQL.md",
     "Redis",
     "MySQL/InnoDB引擎",
     "图片/未命名.canvas"
