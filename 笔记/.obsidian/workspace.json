@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6fa71bb4b61a067f",
@@ -146,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b21fa899ffa41687",
+  "active": "587ca79819de8ec5",
   "lastOpenFiles": [
     "redis下载.md",
     "Redis/1.Redis安装配置.md",
