@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6fa71bb4b61a067f",
@@ -147,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b7c98d5b7b54c59d",
+  "active": "587ca79819de8ec5",
   "lastOpenFiles": [
+    "Redis/2.十大数据类型.md",
     "Redis/4.事务.md",
     "Redis/3.持久化.md",
     "Redis/images/Pasted image 20240707150640.png",
@@ -162,7 +162,6 @@
     "Redis/images/Pasted image 20240707104741.png",
     "Redis/images/Pasted image 20240707092700.png",
     "Redis/0.简介.md",
-    "Redis/2.十大数据类型.md",
     "未命名.md",
     "未命名 1.md",
     "Redis/1.Redis安装配置.md",
