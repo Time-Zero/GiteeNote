@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,8 +148,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6be7244886a36217",
+  "active": "506ffa8680dce3f8",
   "lastOpenFiles": [
+    "Redis/0.简介.md",
+    "Redis/3.持久化.md",
     "Redis/images/Pasted image 20240706195018.png",
     "Redis/images/Pasted image 20240706194932.png",
     "Redis/images/Pasted image 20240706194623.png",
@@ -156,16 +159,13 @@
     "Redis/images/Pasted image 20240706181922.png",
     "Redis/images/Pasted image 20240706181633.png",
     "Redis/images/Pasted image 20240706180901.png",
-    "Redis/3.持久化.md",
     "Redis/2.十大数据类型.md",
     "Redis/images/Pasted image 20240706150825.png",
     "Redis/images/Pasted image 20240706150714.png",
     "Redis/images/Pasted image 20240706150258.png",
-    "Redis/images/Pasted image 20240706150028.png",
     "未命名.md",
     "未命名 1.md",
     "Redis/1.Redis安装配置.md",
-    "Redis/0.简介.md",
     "Redis/images",
     "redis下载.md",
     "MySQL/InnoDB引擎/4.MVCC.md",
