@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6be7244886a36217",
+  "active": "587ca79819de8ec5",
   "lastOpenFiles": [
     "Redis/images/Pasted image 20240707114040.png",
     "Redis/images/Pasted image 20240707112949.png",
