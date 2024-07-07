@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6fa71bb4b61a067f",
@@ -146,8 +147,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "587ca79819de8ec5",
+  "active": "b7c98d5b7b54c59d",
   "lastOpenFiles": [
+    "Redis/images/Pasted image 20240707153321.png",
     "Redis/2.十大数据类型.md",
     "Redis/4.事务.md",
     "Redis/3.持久化.md",
@@ -190,7 +192,6 @@
     "MySQL/视图/介绍和基本语法.md",
     "2024-06-20.md",
     "未命名.canvas",
-    "数据库系统复习/二、关系模型.md",
     "数据库系统复习/images",
     "数据库系统复习",
     "MySQL/SQL优化",
