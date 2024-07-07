@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ad372180777d27b",
+        "id": "ee2d738afcce5933",
         "type": "tabs",
         "children": [
           {
-            "id": "6be7244886a36217",
+            "id": "b7c98d5b7b54c59d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/3.持久化.md",
+                "file": "Redis/4.事务.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/3.持久化.md",
+                "file": "Redis/4.事务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/3.持久化.md",
+                "file": "Redis/4.事务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/3.持久化.md"
+                "file": "Redis/4.事务.md"
               }
             }
           }
@@ -147,21 +147,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "587ca79819de8ec5",
+  "active": "b7c98d5b7b54c59d",
   "lastOpenFiles": [
+    "Redis/4.事务.md",
+    "Redis/3.持久化.md",
+    "Redis/images/Pasted image 20240707150640.png",
     "Redis/images/Pasted image 20240707114040.png",
     "Redis/images/Pasted image 20240707112949.png",
     "Redis/images/Pasted image 20240707111544.png",
     "Redis/images/Pasted image 20240707111212.png",
     "Redis/images/Pasted image 20240707110441.png",
-    "Redis/3.持久化.md",
     "Redis/images/Pasted image 20240707110215.png",
     "Redis/images/Pasted image 20240707110128.png",
     "Redis/images/Pasted image 20240707104741.png",
     "Redis/images/Pasted image 20240707092700.png",
     "Redis/0.简介.md",
-    "Redis/images/Pasted image 20240706195018.png",
-    "Redis/images/Pasted image 20240706194932.png",
     "Redis/2.十大数据类型.md",
     "未命名.md",
     "未命名 1.md",
