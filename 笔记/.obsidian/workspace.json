@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "23dbb6892c13aeb1",
+        "id": "c154978553d729fd",
         "type": "tabs",
         "children": [
           {
-            "id": "bf30e52ba600a3dd",
+            "id": "6ba039b7bdf4a7c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/7.主从复制.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f625ac8aa7fbdce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redis/1.Redis安装配置.md",
+                "file": "Redis/8.哨兵.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/7.主从复制.md",
+                "file": "Redis/8.哨兵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/7.主从复制.md",
+                "file": "Redis/8.哨兵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/7.主从复制.md"
+                "file": "Redis/8.哨兵.md"
               }
             }
           }
@@ -159,8 +147,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bf30e52ba600a3dd",
+  "active": "6ba039b7bdf4a7c2",
   "lastOpenFiles": [
+    "Redis/1.Redis安装配置.md",
+    "Redis/7.主从复制.md",
     "Redis/images/Pasted image 20240708145439.png",
     "Redis/images/Pasted image 20240708135447.png",
     "Redis/images/Pasted image 20240708135425.png",
@@ -171,9 +161,6 @@
     "Redis/images/Pasted image 20240708135055.png",
     "Redis/images/Pasted image 20240708135014.png",
     "Redis/images/Pasted image 20240708134941.png",
-    "Redis/images/Pasted image 20240708134858.png",
-    "Redis/1.Redis安装配置.md",
-    "Redis/7.主从复制.md",
     "Redis/9.集群.md",
     "Redis/8.哨兵.md",
     "Redis/6.发布订阅.md",
