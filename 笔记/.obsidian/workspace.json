@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33f410667d862cff",
+        "id": "23dbb6892c13aeb1",
         "type": "tabs",
         "children": [
           {
-            "id": "c40ad06fb1314895",
+            "id": "bf30e52ba600a3dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/6.发布订阅.md",
+                "file": "Redis/7.主从复制.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/6.发布订阅.md",
+                "file": "Redis/7.主从复制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/6.发布订阅.md",
+                "file": "Redis/7.主从复制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/6.发布订阅.md"
+                "file": "Redis/7.主从复制.md"
               }
             }
           }
@@ -147,12 +147,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c40ad06fb1314895",
+  "active": "bf30e52ba600a3dd",
   "lastOpenFiles": [
+    "Redis/images/Pasted image 20240708132022.png",
+    "Redis/9.集群.md",
+    "Redis/7.主从复制.md",
+    "Redis/8.哨兵.md",
+    "Redis/6.发布订阅.md",
     "Redis/images/Pasted image 20240708130019.png",
     "Redis/images/Pasted image 20240708125514.png",
     "Redis/images/Pasted image 20240708125402.png",
-    "Redis/6.发布订阅.md",
     "Redis/5.管道.md",
     "Redis/images/Pasted image 20240707162623.png",
     "Redis/4.事务.md",
@@ -164,7 +168,6 @@
     "Redis/images/Pasted image 20240707112949.png",
     "Redis/images/Pasted image 20240707111544.png",
     "Redis/images/Pasted image 20240707111212.png",
-    "Redis/images/Pasted image 20240707110441.png",
     "Redis/0.简介.md",
     "未命名.md",
     "未命名 1.md",
@@ -188,9 +191,6 @@
     "数据库系统复习/四、数据库的安全性.md",
     "数据库系统复习/三、SQL语言.md",
     "数据库系统复习/零、目录.md",
-    "MYSQL/视图.md",
-    "MySQL/视图.md",
-    "MySQL/视图/检查选项.md",
     "未命名.canvas",
     "数据库系统复习/images",
     "数据库系统复习",
