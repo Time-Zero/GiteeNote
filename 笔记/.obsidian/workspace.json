@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6fa71bb4b61a067f",
@@ -148,6 +149,7 @@
   },
   "active": "6ba039b7bdf4a7c2",
   "lastOpenFiles": [
+    "Redis/images/Pasted image 20240709144954.png",
     "Redis/images/Pasted image 20240709104800.png",
     "Redis/images/Pasted image 20240709103045.png",
     "Redis/images/Pasted image 20240709102743.png",
@@ -159,7 +161,6 @@
     "Redis/images/Pasted image 20240708205158.png",
     "Redis/8.哨兵.md",
     "Redis/images/Pasted image 20240708201503.png",
-    "Redis/images/Pasted image 20240708162253.png",
     "Redis/1.Redis安装配置.md",
     "Redis/7.主从复制.md",
     "Redis/9.集群.md",
