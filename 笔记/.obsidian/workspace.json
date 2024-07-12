@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/并发编程/原子操作和内存模型.md",
+                "file": "VSCode/C++调试配置文件备份.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/并发编程/原子操作和内存模型.md",
+                "file": "VSCode/C++调试配置文件备份.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/并发编程/原子操作和内存模型.md",
+                "file": "VSCode/C++调试配置文件备份.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/并发编程/原子操作和内存模型.md"
+                "file": "VSCode/C++调试配置文件备份.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "6ba039b7bdf4a7c2",
   "lastOpenFiles": [
+    "C++/并发编程/原子操作和内存模型.md",
     "C++/并发编程/线程池原理和实现.md",
     "Redis/9.集群.md",
     "Redis/images/Pasted image 20240709160814.png",
@@ -189,7 +190,6 @@
     "Drongo框架",
     "数据库系统复习/四、数据库的安全性.md",
     "数据库系统复习/三、SQL语言.md",
-    "数据库系统复习/零、目录.md",
     "未命名.canvas",
     "数据库系统复习/images",
     "数据库系统复习",
