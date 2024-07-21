@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c154978553d729fd",
+        "id": "8daf7a171d75218c",
         "type": "tabs",
         "children": [
           {
-            "id": "6ba039b7bdf4a7c2",
+            "id": "7323a4a851d03062",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/并发编程/线程池原理和实现.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/并发编程/线程池原理和实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/并发编程/线程池原理和实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/并发编程/线程池原理和实现.md"
+                "file": "C++/基础/移动语义和完美转发.md"
               }
             }
           }
@@ -146,11 +140,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6ba039b7bdf4a7c2",
+  "active": "587ca79819de8ec5",
   "lastOpenFiles": [
+    "C++/基础/移动语义和完美转发.md",
+    "C++/基础",
+    "问题备忘/winsock有关报错.md",
+    "C++/并发编程/线程池原理和实现.md",
     "C++/并发编程/原子操作和内存模型.md",
     "C++/并发编程/Actor和CSP设计模式.md",
-    "C++/并发编程/线程池原理和实现.md",
     "Linux/内存管理.md",
     "Linux/images/Pasted image 20240721150545.png",
     "Linux/images",
@@ -188,13 +185,10 @@
     "MySQL/主从备份",
     "MySQL/InnoDB引擎/1.逻辑存储结构.md",
     "MySQL/InnoDB引擎/images",
-    "MySQL/MySQL修改密码和用户登录地址.md",
-    "MySQL/索引/2.使用规则.md",
     "MySQL/索引/images",
     "MySQL/索引",
     "Drongo框架",
     "未命名.canvas",
-    "数据库系统复习/images",
     "图片/未命名.canvas"
   ]
 }
