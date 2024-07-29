@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMake/1.CMake基础.md",
+                "file": "CMake/2.CMake使用URL导入第三方库.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMake/1.CMake基础.md",
+                "file": "CMake/2.CMake使用URL导入第三方库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMake/1.CMake基础.md",
+                "file": "CMake/2.CMake使用URL导入第三方库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMake/1.CMake基础.md"
+                "file": "CMake/2.CMake使用URL导入第三方库.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "7f81b91245e2ea7d",
   "lastOpenFiles": [
     "CMake/1.CMake基础.md",
+    "CMake/2.CMake使用URL导入第三方库.md",
     "CMake",
     "VS/VS启用vcpkg包管理工具.md",
     "C++/基础/移动语义和完美转发.md",
@@ -189,7 +190,6 @@
     "redis下载.md",
     "MySQL/InnoDB引擎/4.MVCC.md",
     "MySQL/WSL安装MYSQL.md",
-    "MySQL/InnoDB引擎/3.事务原理.md",
     "MySQL/主从备份",
     "MySQL/InnoDB引擎/images",
     "MySQL/索引/images",
