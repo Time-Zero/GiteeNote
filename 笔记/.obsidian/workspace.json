@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMake/2.CMake使用URL导入第三方库.md",
+                "file": "VSCode/C++调试配置文件备份.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMake/2.CMake使用URL导入第三方库.md",
+                "file": "VSCode/C++调试配置文件备份.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMake/2.CMake使用URL导入第三方库.md",
+                "file": "VSCode/C++调试配置文件备份.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMake/2.CMake使用URL导入第三方库.md"
+                "file": "VSCode/C++调试配置文件备份.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "7f81b91245e2ea7d",
   "lastOpenFiles": [
-    "CMake/1.CMake基础.md",
     "CMake/2.CMake使用URL导入第三方库.md",
+    "CMake/1.CMake基础.md",
     "CMake",
     "VS/VS启用vcpkg包管理工具.md",
     "C++/基础/移动语义和完美转发.md",
