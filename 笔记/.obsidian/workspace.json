@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见算法/插入排序.md",
+                "file": "设计模式/工厂模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常见算法/插入排序.md",
+                "file": "设计模式/工厂模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常见算法/插入排序.md",
+                "file": "设计模式/工厂模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见算法/插入排序.md"
+                "file": "设计模式/工厂模式.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "587ca79819de8ec5",
+  "active": "7f81b91245e2ea7d",
   "lastOpenFiles": [
+    "常见算法/插入排序.md",
+    "设计模式/工厂模式.md",
     "设计模式",
     "常见算法/选择排序.md",
     "常见算法/冒泡排序.md",
-    "常见算法/插入排序.md",
     "未命名.md",
     "VSCode/C++调试配置文件备份.md",
     "常见算法",
@@ -193,7 +194,6 @@
     "Redis/images",
     "MySQL/主从备份",
     "MySQL/InnoDB引擎/images",
-    "MySQL/索引/images",
     "未命名.canvas",
     "图片/未命名.canvas"
   ]
