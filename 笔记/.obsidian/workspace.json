@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VSCode/C++调试配置文件备份.md",
+                "file": "常见算法/插入排序.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VSCode/C++调试配置文件备份.md",
+                "file": "常见算法/插入排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VSCode/C++调试配置文件备份.md",
+                "file": "常见算法/插入排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VSCode/C++调试配置文件备份.md"
+                "file": "常见算法/插入排序.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "7f81b91245e2ea7d",
   "lastOpenFiles": [
+    "常见算法/冒泡排序.md",
+    "常见算法/插入排序.md",
+    "常见算法/选择排序.md",
+    "未命名.md",
+    "VSCode/C++调试配置文件备份.md",
+    "常见算法",
     "CMake/2.CMake使用URL导入第三方库.md",
     "CMake/1.CMake基础.md",
     "CMake",
@@ -163,7 +169,6 @@
     "Linux/images",
     "Linux",
     "C++/Linux C++/守护进程.md",
-    "VSCode/C++调试配置文件备份.md",
     "C++/Linux C++",
     "Redis/9.集群.md",
     "Redis/images/Pasted image 20240709160814.png",
@@ -184,16 +189,11 @@
     "Redis/2.十大数据类型.md",
     "Redis/3.持久化.md",
     "Redis/0.简介.md",
-    "未命名.md",
     "未命名 1.md",
     "Redis/images",
-    "redis下载.md",
-    "MySQL/InnoDB引擎/4.MVCC.md",
-    "MySQL/WSL安装MYSQL.md",
     "MySQL/主从备份",
     "MySQL/InnoDB引擎/images",
     "MySQL/索引/images",
-    "MySQL/索引",
     "未命名.canvas",
     "图片/未命名.canvas"
   ]
