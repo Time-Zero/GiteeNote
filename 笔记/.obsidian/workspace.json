@@ -146,11 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7f81b91245e2ea7d",
+  "active": "587ca79819de8ec5",
   "lastOpenFiles": [
+    "设计模式",
+    "常见算法/选择排序.md",
     "常见算法/冒泡排序.md",
     "常见算法/插入排序.md",
-    "常见算法/选择排序.md",
     "未命名.md",
     "VSCode/C++调试配置文件备份.md",
     "常见算法",
@@ -189,7 +190,6 @@
     "Redis/2.十大数据类型.md",
     "Redis/3.持久化.md",
     "Redis/0.简介.md",
-    "未命名 1.md",
     "Redis/images",
     "MySQL/主从备份",
     "MySQL/InnoDB引擎/images",
