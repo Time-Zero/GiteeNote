@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13bfde8625ef61d7",
+        "id": "5b14ee18b07e113b",
         "type": "tabs",
         "children": [
           {
-            "id": "7f81b91245e2ea7d",
+            "id": "b714fc8f27b01e26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计模式/单例模式.md",
+                "file": "C++/并发编程/原子操作和内存模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "设计模式/单例模式.md",
+                "file": "C++/并发编程/原子操作和内存模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "设计模式/单例模式.md",
+                "file": "C++/并发编程/原子操作和内存模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设计模式/单例模式.md"
+                "file": "C++/并发编程/原子操作和内存模型.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7f81b91245e2ea7d",
+  "active": "b714fc8f27b01e26",
   "lastOpenFiles": [
-    "设计模式/工厂模式.md",
+    "C++/并发编程/线程池原理和实现.md",
+    "操作系统/线程切换.md",
+    "操作系统",
+    "MySQL/InnoDB引擎/4.MVCC.md",
     "设计模式/单例模式.md",
+    "设计模式/工厂模式.md",
     "常见算法/插入排序.md",
     "设计模式",
     "常见算法/选择排序.md",
@@ -164,7 +168,6 @@
     "C++/基础/移动语义和完美转发.md",
     "C++/基础",
     "问题备忘/winsock有关报错.md",
-    "C++/并发编程/线程池原理和实现.md",
     "C++/并发编程/原子操作和内存模型.md",
     "C++/并发编程/Actor和CSP设计模式.md",
     "Linux/内存管理.md",
@@ -189,11 +192,8 @@
     "Redis/6.发布订阅.md",
     "Redis/5.管道.md",
     "Redis/4.事务.md",
-    "Redis/2.十大数据类型.md",
-    "Redis/3.持久化.md",
     "Redis/images",
     "MySQL/主从备份",
-    "MySQL/InnoDB引擎/images",
     "未命名.canvas",
     "图片/未命名.canvas"
   ]
