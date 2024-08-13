@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/并发编程/原子操作和内存模型.md",
+                "file": "常见算法/快速排序.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/并发编程/原子操作和内存模型.md",
+                "file": "常见算法/快速排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/并发编程/原子操作和内存模型.md",
+                "file": "常见算法/快速排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/并发编程/原子操作和内存模型.md"
+                "file": "常见算法/快速排序.md"
               }
             }
           }
@@ -148,16 +148,18 @@
   },
   "active": "b714fc8f27b01e26",
   "lastOpenFiles": [
+    "常见算法/冒泡排序.md",
+    "常见算法/快速排序.md",
+    "常见算法/选择排序.md",
+    "常见算法/插入排序.md",
+    "C++/并发编程/原子操作和内存模型.md",
     "C++/并发编程/线程池原理和实现.md",
     "操作系统/线程切换.md",
     "操作系统",
     "MySQL/InnoDB引擎/4.MVCC.md",
     "设计模式/单例模式.md",
     "设计模式/工厂模式.md",
-    "常见算法/插入排序.md",
     "设计模式",
-    "常见算法/选择排序.md",
-    "常见算法/冒泡排序.md",
     "未命名.md",
     "VSCode/C++调试配置文件备份.md",
     "常见算法",
@@ -168,7 +170,6 @@
     "C++/基础/移动语义和完美转发.md",
     "C++/基础",
     "问题备忘/winsock有关报错.md",
-    "C++/并发编程/原子操作和内存模型.md",
     "C++/并发编程/Actor和CSP设计模式.md",
     "Linux/内存管理.md",
     "Linux/images/Pasted image 20240721150545.png",
@@ -191,7 +192,6 @@
     "Redis/7.主从复制.md",
     "Redis/6.发布订阅.md",
     "Redis/5.管道.md",
-    "Redis/4.事务.md",
     "Redis/images",
     "MySQL/主从备份",
     "未命名.canvas",
