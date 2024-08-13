@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见算法/快速排序.md",
+                "file": "MySQL/InnoDB引擎/3.事务原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常见算法/快速排序.md",
+                "file": "MySQL/InnoDB引擎/3.事务原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常见算法/快速排序.md",
+                "file": "MySQL/InnoDB引擎/3.事务原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见算法/快速排序.md"
+                "file": "MySQL/InnoDB引擎/3.事务原理.md"
               }
             }
           }
@@ -148,15 +148,18 @@
   },
   "active": "b714fc8f27b01e26",
   "lastOpenFiles": [
-    "常见算法/冒泡排序.md",
+    "MySQL/InnoDB引擎/4.MVCC.md",
+    "MySQL/InnoDB引擎/3.事务原理.md",
+    "MySQL/InnoDB引擎/2.架构.md",
+    "MySQL/InnoDB引擎/1.逻辑存储结构.md",
     "常见算法/快速排序.md",
+    "常见算法/冒泡排序.md",
     "常见算法/选择排序.md",
     "常见算法/插入排序.md",
     "C++/并发编程/原子操作和内存模型.md",
     "C++/并发编程/线程池原理和实现.md",
     "操作系统/线程切换.md",
     "操作系统",
-    "MySQL/InnoDB引擎/4.MVCC.md",
     "设计模式/单例模式.md",
     "设计模式/工厂模式.md",
     "设计模式",
@@ -189,9 +192,6 @@
     "Redis/images/Pasted image 20240709145654.png",
     "Redis/8.哨兵.md",
     "Redis/1.Redis安装配置.md",
-    "Redis/7.主从复制.md",
-    "Redis/6.发布订阅.md",
-    "Redis/5.管道.md",
     "Redis/images",
     "MySQL/主从备份",
     "未命名.canvas",
