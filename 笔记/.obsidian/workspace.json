@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/InnoDB引擎/3.事务原理.md",
+                "file": "Redis/5.管道.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/InnoDB引擎/3.事务原理.md",
+                "file": "Redis/5.管道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/InnoDB引擎/3.事务原理.md",
+                "file": "Redis/5.管道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/InnoDB引擎/3.事务原理.md"
+                "file": "Redis/5.管道.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "b714fc8f27b01e26",
   "lastOpenFiles": [
-    "MySQL/InnoDB引擎/4.MVCC.md",
+    "Redis/3.持久化.md",
     "MySQL/InnoDB引擎/3.事务原理.md",
+    "MySQL/InnoDB引擎/4.MVCC.md",
     "MySQL/事务/四大特性.md",
     "MySQL/InnoDB引擎/2.架构.md",
     "MySQL/InnoDB引擎/1.逻辑存储结构.md",
@@ -181,7 +182,6 @@
     "Linux/images/Pasted image 20240721150545.png",
     "Linux/images",
     "Linux",
-    "C++/Linux C++/守护进程.md",
     "C++/Linux C++",
     "Redis/images/Pasted image 20240709160814.png",
     "Redis/images/Pasted image 20240709155557.png",
