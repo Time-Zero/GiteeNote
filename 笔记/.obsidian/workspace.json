@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/锁/行级锁.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/锁/行级锁.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/锁/行级锁.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/锁/行级锁.md"
+                "file": "MySQL/InnoDB引擎/4.MVCC.md"
               }
             }
           }
@@ -148,23 +148,24 @@
   },
   "active": "b714fc8f27b01e26",
   "lastOpenFiles": [
+    "MySQL/事务/四大特性.md",
+    "MySQL/InnoDB引擎/4.MVCC.md",
+    "MySQL/InnoDB引擎/3.事务原理.md",
+    "MySQL/InnoDB引擎/2.架构.md",
+    "MySQL/锁/行级锁.md",
+    "MySQL/InnoDB引擎/1.逻辑存储结构.md",
+    "MySQL/B+树/B+树.md",
     "MySQL/锁/全局锁.md",
     "MySQL/锁/表级锁.md",
-    "MySQL/事务/四大特性.md",
     "MySQL/事务/数据库的隔离级别.md",
     "MySQL/事务/启用事务.md",
     "MySQL/事务/并发事务引发的问题.md",
-    "MySQL/InnoDB引擎/3.事务原理.md",
-    "MySQL/InnoDB引擎/2.架构.md",
-    "MySQL/InnoDB引擎/1.逻辑存储结构.md",
-    "MySQL/B+树/B+树.md",
     "MySQL/索引/2.使用规则.md",
     "MySQL/索引/1.性能分析.md",
     "Redis/2.十大数据类型.md",
     "Redis/3.持久化.md",
     "Redis/1.Redis安装配置.md",
     "Redis/5.管道.md",
-    "MySQL/InnoDB引擎/4.MVCC.md",
     "常见算法/快速排序.md",
     "常见算法/冒泡排序.md",
     "常见算法/选择排序.md",
@@ -174,7 +175,6 @@
     "操作系统/线程切换.md",
     "操作系统",
     "设计模式/单例模式.md",
-    "设计模式/工厂模式.md",
     "设计模式",
     "常见算法",
     "CMake",
