@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "Redis/3.持久化.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "Redis/3.持久化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "Redis/3.持久化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md"
+                "file": "Redis/3.持久化.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "b714fc8f27b01e26",
   "lastOpenFiles": [
-    "MySQL/事务/四大特性.md",
+    "Redis/4.事务.md",
+    "Redis/5.管道.md",
+    "Redis/6.发布订阅.md",
+    "Redis/7.主从复制.md",
+    "Redis/3.持久化.md",
+    "Redis/0.简介.md",
+    "Redis/1.Redis安装配置.md",
     "MySQL/InnoDB引擎/4.MVCC.md",
+    "MySQL/事务/四大特性.md",
     "MySQL/InnoDB引擎/3.事务原理.md",
     "MySQL/InnoDB引擎/2.架构.md",
     "MySQL/锁/行级锁.md",
@@ -163,18 +170,11 @@
     "MySQL/索引/2.使用规则.md",
     "MySQL/索引/1.性能分析.md",
     "Redis/2.十大数据类型.md",
-    "Redis/3.持久化.md",
-    "Redis/1.Redis安装配置.md",
-    "Redis/5.管道.md",
     "常见算法/快速排序.md",
     "常见算法/冒泡排序.md",
     "常见算法/选择排序.md",
     "常见算法/插入排序.md",
-    "C++/并发编程/原子操作和内存模型.md",
-    "C++/并发编程/线程池原理和实现.md",
-    "操作系统/线程切换.md",
     "操作系统",
-    "设计模式/单例模式.md",
     "设计模式",
     "常见算法",
     "CMake",
