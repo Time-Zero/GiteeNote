@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/5.管道.md",
+                "file": "Redis/3.持久化.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/5.管道.md",
+                "file": "Redis/3.持久化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/5.管道.md",
+                "file": "Redis/3.持久化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/5.管道.md"
+                "file": "Redis/3.持久化.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "b714fc8f27b01e26",
   "lastOpenFiles": [
+    "Redis/1.Redis安装配置.md",
+    "Redis/5.管道.md",
     "Redis/3.持久化.md",
     "MySQL/InnoDB引擎/3.事务原理.md",
     "MySQL/InnoDB引擎/4.MVCC.md",
@@ -177,8 +179,6 @@
     "C++/基础/移动语义和完美转发.md",
     "C++/基础",
     "问题备忘/winsock有关报错.md",
-    "C++/并发编程/Actor和CSP设计模式.md",
-    "Linux/内存管理.md",
     "Linux/images/Pasted image 20240721150545.png",
     "Linux/images",
     "Linux",
