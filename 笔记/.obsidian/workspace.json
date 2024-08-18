@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/3.持久化.md",
+                "file": "Redis/9.集群.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/3.持久化.md",
+                "file": "Redis/9.集群.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/3.持久化.md",
+                "file": "Redis/9.集群.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/3.持久化.md"
+                "file": "Redis/9.集群.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "b714fc8f27b01e26",
   "lastOpenFiles": [
+    "Redis/8.哨兵.md",
+    "Redis/7.主从复制.md",
+    "Redis/3.持久化.md",
     "Redis/4.事务.md",
     "Redis/5.管道.md",
     "Redis/6.发布订阅.md",
-    "Redis/7.主从复制.md",
-    "Redis/3.持久化.md",
     "Redis/0.简介.md",
     "Redis/1.Redis安装配置.md",
     "MySQL/InnoDB引擎/4.MVCC.md",
@@ -173,7 +174,6 @@
     "常见算法/快速排序.md",
     "常见算法/冒泡排序.md",
     "常见算法/选择排序.md",
-    "常见算法/插入排序.md",
     "操作系统",
     "设计模式",
     "常见算法",
