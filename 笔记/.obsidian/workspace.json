@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "C++/并发编程/线程池原理和实现.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "C++/并发编程/线程池原理和实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "C++/并发编程/线程池原理和实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md"
+                "file": "C++/并发编程/线程池原理和实现.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "b714fc8f27b01e26",
   "lastOpenFiles": [
+    "C++/并发编程/Actor和CSP设计模式.md",
+    "C++/并发编程/原子操作和内存模型.md",
+    "MySQL/InnoDB引擎/4.MVCC.md",
     "常见算法/冒泡排序.md",
     "MySQL/索引/1.性能分析.md",
     "MySQL/索引/2.使用规则.md",
@@ -164,7 +167,6 @@
     "Redis/6.发布订阅.md",
     "Redis/0.简介.md",
     "Redis/1.Redis安装配置.md",
-    "MySQL/InnoDB引擎/4.MVCC.md",
     "MySQL/InnoDB引擎/3.事务原理.md",
     "MySQL/InnoDB引擎/2.架构.md",
     "MySQL/锁/行级锁.md",
@@ -172,8 +174,6 @@
     "MySQL/B+树/B+树.md",
     "MySQL/锁/全局锁.md",
     "MySQL/锁/表级锁.md",
-    "Redis/2.十大数据类型.md",
-    "常见算法/快速排序.md",
     "操作系统",
     "设计模式",
     "常见算法",
