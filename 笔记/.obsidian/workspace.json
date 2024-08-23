@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计模式/单例模式.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "单例",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "设计模式/单例模式.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "设计模式/单例模式.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设计模式/单例模式.md"
+                "file": "MySQL/InnoDB引擎/4.MVCC.md"
               }
             }
           }
@@ -149,6 +148,7 @@
   },
   "active": "b714fc8f27b01e26",
   "lastOpenFiles": [
+    "设计模式/单例模式.md",
     "Redis/2.十大数据类型.md",
     "C++/并发编程/线程池原理和实现.md",
     "C++/并发编程/Actor和CSP设计模式.md",
@@ -174,7 +174,6 @@
     "MySQL/InnoDB引擎/2.架构.md",
     "MySQL/锁/行级锁.md",
     "MySQL/InnoDB引擎/1.逻辑存储结构.md",
-    "MySQL/B+树/B+树.md",
     "操作系统",
     "设计模式",
     "常见算法",
