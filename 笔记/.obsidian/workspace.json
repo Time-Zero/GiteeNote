@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见算法/快速排序.md",
+                "file": "VSCode/C++调试配置文件备份.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常见算法/快速排序.md",
+                "file": "VSCode/C++调试配置文件备份.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常见算法/快速排序.md",
+                "file": "VSCode/C++调试配置文件备份.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见算法/快速排序.md"
+                "file": "VSCode/C++调试配置文件备份.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "b714fc8f27b01e26",
   "lastOpenFiles": [
+    "常见算法/插入排序.md",
+    "常见算法/快速排序.md",
+    "常见算法/选择排序.md",
     "MySQL/InnoDB引擎/4.MVCC.md",
     "设计模式/单例模式.md",
     "Redis/2.十大数据类型.md",
@@ -171,9 +174,6 @@
     "Redis/0.简介.md",
     "Redis/1.Redis安装配置.md",
     "MySQL/InnoDB引擎/3.事务原理.md",
-    "MySQL/InnoDB引擎/2.架构.md",
-    "MySQL/锁/行级锁.md",
-    "MySQL/InnoDB引擎/1.逻辑存储结构.md",
     "操作系统",
     "设计模式",
     "常见算法",
