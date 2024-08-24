@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/锁/互斥锁.md",
+                "file": "C++/锁/自旋锁.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/锁/互斥锁.md",
+                "file": "C++/锁/自旋锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/锁/互斥锁.md",
+                "file": "C++/锁/自旋锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/锁/互斥锁.md"
+                "file": "C++/锁/自旋锁.md"
               }
             }
           }
@@ -147,10 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "506ffa8680dce3f8",
+  "active": "b714fc8f27b01e26",
   "lastOpenFiles": [
-    "常见算法/快速排序.md",
+    "C++/并发编程/原子操作和内存模型.md",
+    "C++/并发编程/Actor和CSP设计模式.md",
+    "C++/锁/自旋锁.md",
     "C++/锁/互斥锁.md",
+    "常见算法/快速排序.md",
     "C++/锁",
     "VSCode/C++调试配置文件备份.md",
     "常见算法/插入排序.md",
@@ -159,8 +161,6 @@
     "设计模式/单例模式.md",
     "Redis/2.十大数据类型.md",
     "C++/并发编程/线程池原理和实现.md",
-    "C++/并发编程/Actor和CSP设计模式.md",
-    "C++/并发编程/原子操作和内存模型.md",
     "常见算法/冒泡排序.md",
     "MySQL/索引/1.性能分析.md",
     "MySQL/索引/2.使用规则.md",
@@ -175,7 +175,6 @@
     "Redis/4.事务.md",
     "Redis/5.管道.md",
     "Redis/6.发布订阅.md",
-    "Redis/0.简介.md",
     "操作系统",
     "设计模式",
     "常见算法",
