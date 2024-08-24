@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见算法/快速排序.md",
+                "file": "C++/锁/互斥锁.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lock",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常见算法/快速排序.md",
+                "file": "C++/锁/互斥锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常见算法/快速排序.md",
+                "file": "C++/锁/互斥锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见算法/快速排序.md"
+                "file": "C++/锁/互斥锁.md"
               }
             }
           }
@@ -146,11 +147,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b714fc8f27b01e26",
+  "active": "506ffa8680dce3f8",
   "lastOpenFiles": [
+    "常见算法/快速排序.md",
+    "C++/锁/互斥锁.md",
+    "C++/锁",
     "VSCode/C++调试配置文件备份.md",
     "常见算法/插入排序.md",
-    "常见算法/快速排序.md",
     "常见算法/选择排序.md",
     "MySQL/InnoDB引擎/4.MVCC.md",
     "设计模式/单例模式.md",
@@ -173,7 +176,6 @@
     "Redis/5.管道.md",
     "Redis/6.发布订阅.md",
     "Redis/0.简介.md",
-    "Redis/1.Redis安装配置.md",
     "操作系统",
     "设计模式",
     "常见算法",
@@ -193,7 +195,6 @@
     "Redis/images/Pasted image 20240709150424.png",
     "Redis/images/Pasted image 20240709145654.png",
     "Redis/images",
-    "MySQL/主从备份",
     "未命名.canvas",
     "图片/未命名.canvas"
   ]
