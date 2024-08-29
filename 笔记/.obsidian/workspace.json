@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见算法/完全二叉树多个元素的公共父节点.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lock",
+                "query": "快照读",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常见算法/完全二叉树多个元素的公共父节点.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常见算法/完全二叉树多个元素的公共父节点.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见算法/完全二叉树多个元素的公共父节点.md"
+                "file": "MySQL/InnoDB引擎/4.MVCC.md"
               }
             }
           }
@@ -148,8 +149,8 @@
   },
   "active": "b714fc8f27b01e26",
   "lastOpenFiles": [
-    "MySQL/InnoDB引擎/4.MVCC.md",
     "常见算法/完全二叉树多个元素的公共父节点.md",
+    "MySQL/InnoDB引擎/4.MVCC.md",
     "MySQL/InnoDB引擎/3.事务原理.md",
     "MySQL/InnoDB引擎/2.架构.md",
     "问题备忘/哈希冲突解决方式.md",
