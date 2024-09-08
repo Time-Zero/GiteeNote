@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见算法/插入排序.md",
+                "file": "MySQL/索引/2.使用规则.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常见算法/插入排序.md",
+                "file": "MySQL/索引/2.使用规则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常见算法/插入排序.md",
+                "file": "MySQL/索引/2.使用规则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见算法/插入排序.md"
+                "file": "MySQL/索引/2.使用规则.md"
               }
             }
           }
@@ -160,8 +160,15 @@
   },
   "active": "ee209c1d3bf25c4c",
   "lastOpenFiles": [
-    "Linux/网络编程/Epoll的惊群.md",
+    "MySQL/索引/1.性能分析.md",
+    "数据库系统复习/四、数据库的安全性.md",
+    "数据库系统复习/五、数据库完整性.md",
+    "MySQL/索引/2.使用规则.md",
+    "MySQL/视图/更新及作用.md",
+    "MySQL/视图/检查选项.md",
+    "MySQL/事务/四大特性.md",
     "常见算法/插入排序.md",
+    "Linux/网络编程/Epoll的惊群.md",
     "常见算法/冒泡排序.md",
     "常见算法/快速排序.md",
     "常见算法/选择排序.md",
@@ -183,15 +190,8 @@
     "问题备忘/哈希冲突解决方式.md",
     "问题备忘/images/Pasted image 20240825152004.png",
     "问题备忘/images",
-    "VSCode/C++调试配置文件备份.md",
     "杂项",
-    "C++/并发编程/Actor和CSP设计模式.md",
     "C++/锁",
-    "设计模式/单例模式.md",
-    "Redis/2.十大数据类型.md",
-    "MySQL/索引/1.性能分析.md",
-    "MySQL/索引/2.使用规则.md",
-    "MySQL/事务/四大特性.md",
     "操作系统",
     "设计模式",
     "常见算法",
