@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/索引/2.使用规则.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/索引/2.使用规则.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/索引/2.使用规则.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/索引/2.使用规则.md"
+                "file": "MySQL/InnoDB引擎/4.MVCC.md"
               }
             }
           }
@@ -160,13 +160,21 @@
   },
   "active": "ee209c1d3bf25c4c",
   "lastOpenFiles": [
+    "MySQL/InnoDB引擎/3.事务原理.md",
+    "MySQL/InnoDB引擎/2.架构.md",
+    "MySQL/索引/2.使用规则.md",
+    "MySQL/InnoDB引擎/1.逻辑存储结构.md",
+    "MySQL/B+树/B+树.md",
+    "MySQL/锁/行级锁.md",
+    "MySQL/锁/全局锁.md",
+    "MySQL/锁/表级锁.md",
+    "MySQL/事务/数据库的隔离级别.md",
+    "MySQL/事务/四大特性.md",
     "MySQL/索引/1.性能分析.md",
     "数据库系统复习/四、数据库的安全性.md",
     "数据库系统复习/五、数据库完整性.md",
-    "MySQL/索引/2.使用规则.md",
     "MySQL/视图/更新及作用.md",
     "MySQL/视图/检查选项.md",
-    "MySQL/事务/四大特性.md",
     "常见算法/插入排序.md",
     "Linux/网络编程/Epoll的惊群.md",
     "常见算法/冒泡排序.md",
@@ -179,15 +187,7 @@
     "C++/锁/自旋锁.md",
     "C++/锁/条件锁.md",
     "C++/锁/互斥锁.md",
-    "C++/并发编程/原子操作和内存模型.md",
-    "C++/并发编程/线程池原理和实现.md",
-    "C++/基本语法/模板元编程.md",
     "C++/基本语法",
-    "MySQL/InnoDB引擎/4.MVCC.md",
-    "常见算法/完全二叉树多个元素的公共父节点.md",
-    "MySQL/InnoDB引擎/3.事务原理.md",
-    "MySQL/InnoDB引擎/2.架构.md",
-    "问题备忘/哈希冲突解决方式.md",
     "问题备忘/images/Pasted image 20240825152004.png",
     "问题备忘/images",
     "杂项",
