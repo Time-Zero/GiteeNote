@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMake/1.CMake基础.md",
+                "file": "常见算法/选择排序.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMake/1.CMake基础.md",
+                "file": "常见算法/选择排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMake/1.CMake基础.md",
+                "file": "常见算法/选择排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMake/1.CMake基础.md"
+                "file": "常见算法/选择排序.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ee209c1d3bf25c4c",
   "lastOpenFiles": [
+    "CMake/1.CMake基础.md",
     "Redis/9.集群.md",
     "Redis/2.十大数据类型.md",
     "Redis/1.Redis安装配置.md",
@@ -173,7 +174,6 @@
     "数据库系统复习/四、数据库的安全性.md",
     "数据库系统复习/五、数据库完整性.md",
     "MySQL/视图/更新及作用.md",
-    "MySQL/视图/检查选项.md",
     "Linux/网络编程",
     "C++/基本语法",
     "问题备忘/images/Pasted image 20240825152004.png",
