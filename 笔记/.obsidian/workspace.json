@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Redis/9.集群.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cfe12ce22e729ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Linux/网络编程/Epoll的惊群.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/网络编程/Epoll的惊群.md",
+                "file": "Redis/9.集群.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/网络编程/Epoll的惊群.md",
+                "file": "Redis/9.集群.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/网络编程/Epoll的惊群.md"
+                "file": "Redis/9.集群.md"
               }
             }
           }
@@ -146,9 +158,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "587ca79819de8ec5",
+  "active": "ee209c1d3bf25c4c",
   "lastOpenFiles": [
     "Linux/网络编程/Epoll的惊群.md",
+    "Redis/9.集群.md",
     "Linux/网络编程",
     "Linux/并发.md",
     "常见算法/快速排序.md",
@@ -179,7 +192,6 @@
     "MySQL/索引/1.性能分析.md",
     "MySQL/索引/2.使用规则.md",
     "MySQL/事务/四大特性.md",
-    "MySQL/事务/数据库的隔离级别.md",
     "操作系统",
     "设计模式",
     "常见算法",
