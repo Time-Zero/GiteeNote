@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cfe12ce22e729ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/网络编程/Epoll的惊群.md",
+                "file": "CMake/1.CMake基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "CMake/1.CMake基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "CMake/1.CMake基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md"
+                "file": "CMake/1.CMake基础.md"
               }
             }
           }
@@ -160,7 +148,18 @@
   },
   "active": "ee209c1d3bf25c4c",
   "lastOpenFiles": [
+    "Redis/9.集群.md",
+    "Redis/2.十大数据类型.md",
+    "Redis/1.Redis安装配置.md",
+    "Redis/0.简介.md",
+    "Redis/7.主从复制.md",
+    "Redis/6.发布订阅.md",
+    "Redis/5.管道.md",
+    "Redis/4.事务.md",
+    "Redis/3.持久化.md",
+    "MySQL/InnoDB引擎/4.MVCC.md",
     "MySQL/InnoDB引擎/3.事务原理.md",
+    "Linux/网络编程/Epoll的惊群.md",
     "MySQL/InnoDB引擎/2.架构.md",
     "MySQL/索引/2.使用规则.md",
     "MySQL/InnoDB引擎/1.逻辑存储结构.md",
@@ -175,18 +174,7 @@
     "数据库系统复习/五、数据库完整性.md",
     "MySQL/视图/更新及作用.md",
     "MySQL/视图/检查选项.md",
-    "常见算法/插入排序.md",
-    "Linux/网络编程/Epoll的惊群.md",
-    "常见算法/冒泡排序.md",
-    "常见算法/快速排序.md",
-    "常见算法/选择排序.md",
-    "Redis/9.集群.md",
     "Linux/网络编程",
-    "Linux/并发.md",
-    "Linux/内存管理.md",
-    "C++/锁/自旋锁.md",
-    "C++/锁/条件锁.md",
-    "C++/锁/互斥锁.md",
     "C++/基本语法",
     "问题备忘/images/Pasted image 20240825152004.png",
     "问题备忘/images",
