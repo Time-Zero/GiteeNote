@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/9.集群.md",
+                "file": "常见算法/插入排序.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/9.集群.md",
+                "file": "常见算法/插入排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/9.集群.md",
+                "file": "常见算法/插入排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/9.集群.md"
+                "file": "常见算法/插入排序.md"
               }
             }
           }
@@ -161,13 +161,13 @@
   "active": "ee209c1d3bf25c4c",
   "lastOpenFiles": [
     "Linux/网络编程/Epoll的惊群.md",
+    "常见算法/插入排序.md",
+    "常见算法/冒泡排序.md",
+    "常见算法/快速排序.md",
+    "常见算法/选择排序.md",
     "Redis/9.集群.md",
     "Linux/网络编程",
     "Linux/并发.md",
-    "常见算法/快速排序.md",
-    "常见算法/插入排序.md",
-    "常见算法/冒泡排序.md",
-    "常见算法/选择排序.md",
     "Linux/内存管理.md",
     "C++/锁/自旋锁.md",
     "C++/锁/条件锁.md",
