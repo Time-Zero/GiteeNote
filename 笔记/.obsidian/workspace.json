@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "7558e0a6405bbff2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12c39375c6f6a890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redis/2.十大数据类型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 397.5,
+    "collapsed": true
   },
   "right": {
     "id": "6fa71bb4b61a067f",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "Redis/2.十大数据类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "Redis/2.十大数据类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/InnoDB引擎/4.MVCC.md"
+                "file": "Redis/2.十大数据类型.md"
               }
             }
           }
@@ -146,8 +165,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ee209c1d3bf25c4c",
+  "active": "12c39375c6f6a890",
   "lastOpenFiles": [
+    "MySQL/InnoDB引擎/4.MVCC.md",
     "MySQL/事务/数据库的隔离级别.md",
     "MySQL/事务/四大特性.md",
     "问题备忘/哈希冲突解决方式.md",
@@ -156,7 +176,6 @@
     "常见算法/快速排序.md",
     "常见算法/选择排序.md",
     "常见算法/冒泡排序.md",
-    "MySQL/InnoDB引擎/4.MVCC.md",
     "CMake/1.CMake基础.md",
     "Redis/9.集群.md",
     "Redis/2.十大数据类型.md",
