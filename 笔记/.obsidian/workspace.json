@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/事务/四大特性.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/事务/四大特性.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/事务/四大特性.md",
+                "file": "MySQL/InnoDB引擎/4.MVCC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/事务/四大特性.md"
+                "file": "MySQL/InnoDB引擎/4.MVCC.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "ee209c1d3bf25c4c",
   "lastOpenFiles": [
+    "MySQL/事务/数据库的隔离级别.md",
+    "MySQL/事务/四大特性.md",
     "问题备忘/哈希冲突解决方式.md",
     "设计模式/工厂模式.md",
     "常见算法/插入排序.md",
@@ -172,8 +174,6 @@
     "MySQL/InnoDB引擎/1.逻辑存储结构.md",
     "MySQL/B+树/B+树.md",
     "MySQL/锁/行级锁.md",
-    "MySQL/锁/全局锁.md",
-    "MySQL/锁/表级锁.md",
     "Linux/网络编程",
     "C++/基本语法",
     "问题备忘/images/Pasted image 20240825152004.png",
