@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "关系运算",
+                "query": "数据库设计",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8f2de1653ac031e1",
+  "active": "506ffa8680dce3f8",
   "lastOpenFiles": [
     "MySQL/InnoDB引擎/4.MVCC.md",
     "本质是.md",
