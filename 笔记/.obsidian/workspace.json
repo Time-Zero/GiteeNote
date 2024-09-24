@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库系统复习/二、关系模型.md",
+                "file": "CMake/1.CMake基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "数据库设计",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库系统复习/二、关系模型.md",
+                "file": "CMake/1.CMake基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库系统复习/二、关系模型.md",
+                "file": "CMake/1.CMake基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库系统复习/二、关系模型.md"
+                "file": "CMake/1.CMake基础.md"
               }
             }
           }
@@ -147,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "506ffa8680dce3f8",
+  "active": "8f2de1653ac031e1",
   "lastOpenFiles": [
+    "数据库系统复习/二、关系模型.md",
     "MySQL/InnoDB引擎/4.MVCC.md",
     "本质是.md",
     "Redis/2.十大数据类型.md",
@@ -174,7 +174,6 @@
     "MySQL/InnoDB引擎/2.架构.md",
     "MySQL/索引/2.使用规则.md",
     "MySQL/InnoDB引擎/1.逻辑存储结构.md",
-    "MySQL/B+树/B+树.md",
     "Linux/网络编程",
     "C++/基本语法",
     "问题备忘/images/Pasted image 20240825152004.png",
