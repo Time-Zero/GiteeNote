@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMake/1.CMake基础.md",
+                "file": "设计模式/单例模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "单例",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMake/1.CMake基础.md",
+                "file": "设计模式/单例模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMake/1.CMake基础.md",
+                "file": "设计模式/单例模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMake/1.CMake基础.md"
+                "file": "设计模式/单例模式.md"
               }
             }
           }
@@ -148,6 +149,7 @@
   },
   "active": "8f2de1653ac031e1",
   "lastOpenFiles": [
+    "CMake/1.CMake基础.md",
     "数据库系统复习/二、关系模型.md",
     "MySQL/InnoDB引擎/4.MVCC.md",
     "本质是.md",
@@ -160,7 +162,6 @@
     "常见算法/快速排序.md",
     "常见算法/选择排序.md",
     "常见算法/冒泡排序.md",
-    "CMake/1.CMake基础.md",
     "Redis/9.集群.md",
     "Redis/1.Redis安装配置.md",
     "Redis/0.简介.md",
