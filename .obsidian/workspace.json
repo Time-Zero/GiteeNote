@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6830be87490d4944",
+        "id": "8de16fc53b28cc67",
         "type": "tabs",
         "children": [
           {
-            "id": "d09de363edb31953",
+            "id": "42347f6939e2731f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/MySQL/事务/四大特性.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -155,7 +151,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d09de363edb31953",
+  "active": "80b6c93ede263027",
   "lastOpenFiles": [
     "笔记/本质是.md",
     "笔记/MySQL/事务/四大特性.md",
