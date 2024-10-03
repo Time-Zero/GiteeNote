@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/常见算法/冒泡排序.md",
+                "file": "笔记/常见算法/快速排序.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/常见算法/冒泡排序.md",
+                "file": "笔记/常见算法/快速排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/常见算法/冒泡排序.md",
+                "file": "笔记/常见算法/快速排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/常见算法/冒泡排序.md"
+                "file": "笔记/常见算法/快速排序.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "42347f6939e2731f",
   "lastOpenFiles": [
-    "笔记/常见算法/完全二叉树多个元素的公共父节点.md",
     "笔记/常见算法/冒泡排序.md",
+    "笔记/常见算法/完全二叉树多个元素的公共父节点.md",
     "笔记/常见算法/选择排序.md",
     "笔记/常见算法/插入排序.md",
     "笔记/操作系统/线程切换.md",
