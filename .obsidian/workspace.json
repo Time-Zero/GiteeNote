@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/MySQL/事务/并发事务引发的问题.md",
+                "file": "笔记/MySQL/事务/四大特性.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/MySQL/事务/并发事务引发的问题.md",
+                "file": "笔记/MySQL/事务/四大特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/MySQL/事务/并发事务引发的问题.md",
+                "file": "笔记/MySQL/事务/四大特性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/MySQL/事务/并发事务引发的问题.md"
+                "file": "笔记/MySQL/事务/四大特性.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   },
   "active": "42347f6939e2731f",
   "lastOpenFiles": [
+    "笔记/MySQL/事务/数据库的隔离级别.md",
+    "笔记/MySQL/事务/启用事务.md",
+    "笔记/MySQL/事务/并发事务引发的问题.md",
     "笔记/Linux/内存管理.md",
     "笔记/Linux/网络编程/Epoll的惊群.md",
     "笔记/CMake/2.CMake使用URL导入第三方库.md",
@@ -178,9 +181,6 @@
     "笔记/操作系统/线程切换.md",
     "笔记/本质是.md",
     "笔记/MySQL/事务/四大特性.md",
-    "笔记/MySQL/事务/数据库的隔离级别.md",
-    "笔记/MySQL/事务/启用事务.md",
-    "笔记/MySQL/事务/并发事务引发的问题.md",
     "笔记/Redis/0.简介.md",
     "笔记/Redis/1.Redis安装配置.md"
   ]
