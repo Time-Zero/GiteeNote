@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/MySQL/锁/表级锁.md",
+                "file": "笔记/MySQL/InnoDB引擎/3.事务原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/MySQL/锁/表级锁.md",
+                "file": "笔记/MySQL/InnoDB引擎/3.事务原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/MySQL/锁/表级锁.md",
+                "file": "笔记/MySQL/InnoDB引擎/3.事务原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/MySQL/锁/表级锁.md"
+                "file": "笔记/MySQL/InnoDB引擎/3.事务原理.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   },
   "active": "42347f6939e2731f",
   "lastOpenFiles": [
+    "笔记/MySQL/InnoDB引擎/2.架构.md",
+    "笔记/MySQL/InnoDB引擎/1.逻辑存储结构.md",
+    "笔记/MySQL/B+树/B+树.md",
     "笔记/MySQL/锁/行级锁.md",
     "笔记/MySQL/锁/全局锁.md",
     "笔记/MySQL/锁/表级锁.md",
@@ -179,9 +182,6 @@
     "笔记/C++/锁/互斥锁.md",
     "笔记/C++/并发编程/Actor和CSP设计模式.md",
     "笔记/C++/并发编程/原子操作和内存模型.md",
-    "笔记/C++/并发编程/线程池原理和实现.md",
-    "笔记/数据库系统复习/五、数据库完整性.md",
-    "笔记/设计模式/工厂模式.md",
-    "笔记/常见算法/选择排序.md"
+    "笔记/C++/并发编程/线程池原理和实现.md"
   ]
 }
