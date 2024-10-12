@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/MySQL/WSL安装MYSQL.md",
+                "file": "笔记/设计模式/单例模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "单例",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/MySQL/WSL安装MYSQL.md",
+                "file": "笔记/设计模式/单例模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/MySQL/WSL安装MYSQL.md",
+                "file": "笔记/设计模式/单例模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/MySQL/WSL安装MYSQL.md"
+                "file": "笔记/设计模式/单例模式.md"
               }
             }
           },
@@ -157,8 +158,8 @@
   },
   "active": "42347f6939e2731f",
   "lastOpenFiles": [
-    "笔记/MySQL/MySQL修改密码和用户登录地址.md",
     "笔记/MySQL/WSL安装MYSQL.md",
+    "笔记/MySQL/MySQL修改密码和用户登录地址.md",
     "笔记/Redis/8.哨兵.md",
     "笔记/Redis/3.持久化.md",
     "笔记/Redis/2.十大数据类型.md",
