@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/Redis/3.持久化.md",
+                "file": "笔记/Redis/8.哨兵.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/Redis/3.持久化.md",
+                "file": "笔记/Redis/8.哨兵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/Redis/3.持久化.md",
+                "file": "笔记/Redis/8.哨兵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/Redis/3.持久化.md"
+                "file": "笔记/Redis/8.哨兵.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "42347f6939e2731f",
   "lastOpenFiles": [
+    "笔记/Redis/3.持久化.md",
     "笔记/Redis/2.十大数据类型.md",
     "笔记/Redis/1.Redis安装配置.md",
     "笔记/MySQL/InnoDB引擎/4.MVCC.md",
@@ -181,7 +182,6 @@
     "笔记/CMake/2.CMake使用URL导入第三方库.md",
     "笔记/C++/MySql Connector/MySQL Connnector同步问题.md",
     "笔记/C++/Linux C++/守护进程.md",
-    "笔记/C++/锁/自旋锁.md",
-    "笔记/C++/锁/条件锁.md"
+    "笔记/C++/锁/自旋锁.md"
   ]
 }
