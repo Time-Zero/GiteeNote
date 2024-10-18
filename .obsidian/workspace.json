@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "WSL安装MYSQL"
             }
+          },
+          {
+            "id": "0fc0d77f28bc2035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/MySQL/MySQL修改密码和用户登录地址.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MySQL修改密码和用户登录地址"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/MySQL/WSL安装MYSQL.md",
+                "file": "笔记/MySQL/MySQL修改密码和用户登录地址.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "WSL安装MYSQL 的反向链接列表"
+              "title": "MySQL修改密码和用户登录地址 的反向链接列表"
             }
           },
           {
@@ -127,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/MySQL/WSL安装MYSQL.md",
+                "file": "笔记/MySQL/MySQL修改密码和用户登录地址.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "WSL安装MYSQL 的出链列表"
+              "title": "MySQL修改密码和用户登录地址 的出链列表"
             }
           },
           {
@@ -154,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/MySQL/WSL安装MYSQL.md"
+                "file": "笔记/MySQL/MySQL修改密码和用户登录地址.md"
               },
               "icon": "lucide-list",
-              "title": "WSL安装MYSQL 的大纲"
+              "title": "MySQL修改密码和用户登录地址 的大纲"
             }
           },
           {
@@ -188,11 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ac81fd6b7225cd8",
+  "active": "0fc0d77f28bc2035",
   "lastOpenFiles": [
+    "笔记/MySQL/WSL安装MYSQL.md",
     "笔记/MySQL/InnoDB引擎/1.逻辑存储结构.md",
     "笔记/VSCode/C++调试配置文件备份.md",
-    "笔记/MySQL/WSL安装MYSQL.md",
     "笔记/MySQL/MySQL修改密码和用户登录地址.md",
     "笔记/Redis/8.哨兵.md",
     "笔记/Redis/3.持久化.md",
