@@ -25,12 +25,14 @@
             "id": "1ac81fd6b7225cd8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "笔记/MySQL/WSL安装MYSQL.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "WSL安装MYSQL"
             }
           }
         ],
@@ -65,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "undo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +88,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/MySQL/InnoDB引擎/3.事务原理.md",
+                "file": "笔记/MySQL/WSL安装MYSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "3.事务原理 的反向链接列表"
+              "title": "WSL安装MYSQL 的反向链接列表"
             }
           },
           {
@@ -126,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/MySQL/InnoDB引擎/3.事务原理.md",
+                "file": "笔记/MySQL/WSL安装MYSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "3.事务原理 的出链列表"
+              "title": "WSL安装MYSQL 的出链列表"
             }
           },
           {
@@ -153,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/MySQL/InnoDB引擎/3.事务原理.md"
+                "file": "笔记/MySQL/WSL安装MYSQL.md"
               },
               "icon": "lucide-list",
-              "title": "3.事务原理 的大纲"
+              "title": "WSL安装MYSQL 的大纲"
             }
           },
           {
