@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/VSCode/C++调试配置文件备份.md",
+                "file": "笔记/常见算法/选择排序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++调试配置文件备份"
+              "title": "选择排序"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/VSCode/C++调试配置文件备份.md"
+                "file": "笔记/常见算法/选择排序.md"
               },
               "icon": "lucide-list",
-              "title": "C++调试配置文件备份 的大纲"
+              "title": "选择排序 的大纲"
             }
           },
           {
@@ -175,12 +175,15 @@
   },
   "active": "be2a4b00e3eedfe0",
   "lastOpenFiles": [
+    "笔记/常见算法/完全二叉树多个元素的公共父节点.md",
+    "笔记/常见算法/快速排序.md",
+    "笔记/常见算法/插入排序.md",
+    "笔记/VSCode/C++调试配置文件备份.md",
     "笔记/MySQL/InnoDB引擎/4.MVCC.md",
     "笔记/MySQL/MySQL修改密码和用户登录地址.md",
     "笔记/MySQL/WSL安装MYSQL.md",
     "笔记/MySQL/InnoDB引擎/3.事务原理.md",
     "笔记/MySQL/InnoDB引擎/1.逻辑存储结构.md",
-    "笔记/VSCode/C++调试配置文件备份.md",
     "笔记/Redis/8.哨兵.md",
     "笔记/Redis/3.持久化.md",
     "笔记/Redis/2.十大数据类型.md",
@@ -197,9 +200,6 @@
     "笔记/MySQL/视图/更新及作用.md",
     "笔记/MySQL/事务/四大特性.md",
     "笔记/MySQL/事务/数据库的隔离级别.md",
-    "笔记/MySQL/事务/启用事务.md",
-    "笔记/MySQL/事务/并发事务引发的问题.md",
-    "笔记/Linux/内存管理.md",
-    "笔记/Linux/网络编程/Epoll的惊群.md"
+    "笔记/MySQL/事务/启用事务.md"
   ]
 }
