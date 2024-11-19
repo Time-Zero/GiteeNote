@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "单例",
+                "query": "redis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d10411dbd8d7b52a",
+  "active": "2ced20132b5e3f49",
   "lastOpenFiles": [
     "笔记/MySQL/事务/启用事务.md",
     "笔记/MySQL/事务/并发事务引发的问题.md",
