@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/毕设/什么是跨域小样本.md",
+                "file": "笔记/毕设/1.什么是跨域小样本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "什么是跨域小样本"
+              "title": "1.什么是跨域小样本"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/毕设/什么是跨域小样本.md"
+                "file": "笔记/毕设/1.什么是跨域小样本.md"
               },
               "icon": "lucide-list",
-              "title": "什么是跨域小样本 的大纲"
+              "title": "1.什么是跨域小样本 的大纲"
             }
           },
           {
@@ -176,7 +176,7 @@
   "active": "e9a3f239e49cf49d",
   "lastOpenFiles": [
     "笔记/设计模式/单例模式.md",
-    "笔记/毕设/什么是跨域小样本.md",
+    "笔记/毕设/1.什么是跨域小样本.md",
     "笔记/毕设",
     "笔记/MySQL/事务/启用事务.md",
     "笔记/MySQL/事务/并发事务引发的问题.md",
