@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9a3f239e49cf49d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/毕设/补充.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "补充"
-            }
-          },
-          {
             "id": "4579cd41ef53d46a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/毕设/未命名.md",
+                "file": "笔记/毕设/时间思路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "时间思路"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/毕设/未命名.md"
+                "file": "笔记/毕设/时间思路.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "时间思路 的大纲"
             }
           },
           {
@@ -191,14 +176,14 @@
   "active": "4579cd41ef53d46a",
   "lastOpenFiles": [
     "笔记/毕设/3.可能优化点.md",
-    "笔记/毕设/未命名.md",
+    "笔记/毕设/补充.md",
+    "笔记/毕设/时间思路.md",
     "笔记/毕设/2.初学语义分割.md",
     "笔记/毕设/images/Pasted image 20241124204621.png",
     "笔记/毕设/images/Pasted image 20241124195908.png",
     "笔记/毕设/images/Pasted image 20241124182423.png",
     "笔记/毕设/1.什么是跨域小样本.md",
     "笔记/毕设/0.开题分析.md",
-    "笔记/毕设/补充.md",
     "笔记/毕设/images/Pasted image 20241123151028.png",
     "笔记/毕设/images/Pasted image 20241123151637.png",
     "笔记/毕设/images",
