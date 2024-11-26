@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/毕设/简单的神经网络结构.md",
+                "file": "笔记/毕设/时间思路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "简单的神经网络结构"
+              "title": "时间思路"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/毕设/简单的神经网络结构.md"
+                "file": "笔记/毕设/时间思路.md"
               },
               "icon": "lucide-list",
-              "title": "简单的神经网络结构 的大纲"
+              "title": "时间思路 的大纲"
             }
           },
           {
@@ -175,9 +175,9 @@
   },
   "active": "4579cd41ef53d46a",
   "lastOpenFiles": [
+    "笔记/毕设/简单的神经网络结构.md",
     "笔记/毕设/images/Pasted image 20241125213344.png",
     "笔记/毕设/2.初学语义分割.md",
-    "笔记/毕设/简单的神经网络结构.md",
     "笔记/毕设/1.什么是跨域小样本.md",
     "笔记/毕设/0.开题分析.md",
     "笔记/毕设/补充.md",
