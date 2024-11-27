@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/毕设/2.初学语义分割.md",
+                "file": "笔记/毕设/ViT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.初学语义分割"
+              "title": "ViT"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/毕设/2.初学语义分割.md"
+                "file": "笔记/毕设/ViT.md"
               },
               "icon": "lucide-list",
-              "title": "2.初学语义分割 的大纲"
+              "title": "ViT 的大纲"
             }
           },
           {
@@ -175,13 +175,16 @@
   },
   "active": "4579cd41ef53d46a",
   "lastOpenFiles": [
+    "笔记/毕设/images/Pasted image 20241127194459.png",
+    "笔记/毕设/images/Pasted image 20241127194231.png",
+    "笔记/毕设/2.初学语义分割.md",
+    "笔记/毕设/ViT.md",
     "笔记/毕设/3.可能优化点.md",
     "笔记/毕设/补充.md",
     "笔记/毕设/简单的神经网络结构.md",
     "笔记/毕设/时间思路.md",
     "笔记/毕设/0.开题分析.md",
     "笔记/毕设/1.什么是跨域小样本.md",
-    "笔记/毕设/2.初学语义分割.md",
     "笔记/毕设/images/Pasted image 20241125213344.png",
     "笔记/毕设/images/Pasted image 20241124204621.png",
     "笔记/毕设/images/Pasted image 20241124195908.png",
@@ -210,7 +213,6 @@
     "笔记/MySQL/WSL安装MYSQL.md",
     "笔记/Redis/8.哨兵.md",
     "笔记/Redis/3.持久化.md",
-    "笔记/Redis/2.十大数据类型.md",
-    "笔记/Redis/1.Redis安装配置.md"
+    "笔记/Redis/2.十大数据类型.md"
   ]
 }
