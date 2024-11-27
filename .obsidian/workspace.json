@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/毕设/ViT.md",
+                "file": "笔记/毕设/DropPath.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ViT"
+              "title": "DropPath"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/毕设/ViT.md"
+                "file": "笔记/毕设/DropPath.md"
               },
               "icon": "lucide-list",
-              "title": "ViT 的大纲"
+              "title": "DropPath 的大纲"
             }
           },
           {
@@ -175,10 +175,11 @@
   },
   "active": "4579cd41ef53d46a",
   "lastOpenFiles": [
+    "笔记/毕设/ViT.md",
+    "笔记/毕设/DropPath.md",
     "笔记/毕设/images/Pasted image 20241127194459.png",
     "笔记/毕设/images/Pasted image 20241127194231.png",
     "笔记/毕设/2.初学语义分割.md",
-    "笔记/毕设/ViT.md",
     "笔记/毕设/3.可能优化点.md",
     "笔记/毕设/补充.md",
     "笔记/毕设/简单的神经网络结构.md",
@@ -195,7 +196,6 @@
     "attachments/Pasted image 20241123151637.png",
     "attachments",
     "Pasted image 20241123151637.png",
-    "Pasted image 20241123151028.png",
     "笔记/设计模式/单例模式.md",
     "笔记/毕设",
     "笔记/MySQL/事务/启用事务.md",
