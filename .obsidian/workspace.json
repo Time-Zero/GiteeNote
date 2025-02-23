@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Segformer"
             }
-          },
-          {
-            "id": "d42869310dd85c9f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "笔记/毕设/Segformer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Segformer 的大纲"
             }
           },
           {
@@ -189,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d42869310dd85c9f",
+  "active": "4579cd41ef53d46a",
   "lastOpenFiles": [
     "笔记/毕设/DropPath.md",
     "笔记/毕设/Segformer.md",
