@@ -1,4 +1,4 @@
- * launch.json
+ *  launch.json
 ```json
 {
     "configurations": [
