@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "笔记/MySQL/MySQL修改密码和用户登录地址.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "4.MVCC 的反向链接列表"
+              "title": "MySQL修改密码和用户登录地址 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/MySQL/InnoDB引擎/4.MVCC.md",
+                "file": "笔记/MySQL/MySQL修改密码和用户登录地址.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "4.MVCC 的出链列表"
+              "title": "MySQL修改密码和用户登录地址 的出链列表"
             }
           },
           {
@@ -143,7 +143,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -170,8 +172,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -179,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 411.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33d97f25f47446f1",
+  "active": "24f7327c315805d7",
   "lastOpenFiles": [
     "笔记/MySQL/WSL安装MYSQL.md",
     "笔记/VSCode/C++调试配置文件备份.md",
