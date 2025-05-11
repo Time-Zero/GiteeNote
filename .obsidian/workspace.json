@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "75e175c7f455a7d1",
+        "id": "1d709d83c3e23d3a",
         "type": "tabs",
         "children": [
           {
-            "id": "fa06f901ee616581",
+            "id": "093e500e9f1f1839",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "投资/基础.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "基础"
+              "title": "新标签页"
             }
           }
         ]
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投资/基础.md",
+                "file": "笔记/问题备忘/哈希冲突解决方式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础 的大纲"
+              "title": "哈希冲突解决方式 的大纲"
             }
           },
           {
@@ -180,13 +176,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fa06f901ee616581",
+  "active": "80b6c93ede263027",
   "lastOpenFiles": [
-    "投资/Untitled Diagram.svg",
     "投资/基础.md",
+    "投资/Untitled Diagram.svg",
+    "笔记/VSCode/C++调试配置文件备份.md",
     "未命名 1.canvas",
     "未命名.canvas",
-    "笔记/VSCode/C++调试配置文件备份.md",
     "笔记/MySQL/MySQL修改密码和用户登录地址.md",
     "笔记/MySQL/Untitled Diagram.svg",
     "Excalidraw/Drawing 2025-05-11 21.08.52.excalidraw.md",
