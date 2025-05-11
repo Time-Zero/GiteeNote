@@ -16,7 +16,7 @@ sudo systemctl restart mysql.service
 ```
 
 
-
+![[笔记/MySQL/Untitled Diagram.svg]]
 
 # 二、修改账号的登录验证
 ## 切换到mysql表
