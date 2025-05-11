@@ -138,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/问题备忘/哈希冲突解决方式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "哈希冲突解决方式 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -176,8 +175,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "80b6c93ede263027",
+  "active": "093e500e9f1f1839",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-05-11 21.51.13.excalidraw.md",
+    "Excalidraw",
     "投资/基础.md",
     "投资/Untitled Diagram.svg",
     "笔记/VSCode/C++调试配置文件备份.md",
@@ -186,7 +187,6 @@
     "笔记/MySQL/MySQL修改密码和用户登录地址.md",
     "笔记/MySQL/Untitled Diagram.svg",
     "Excalidraw/Drawing 2025-05-11 21.08.52.excalidraw.md",
-    "Excalidraw",
     "2025-05-11.md",
     "笔记/MySQL/WSL安装MYSQL.md",
     "第二课.md",
