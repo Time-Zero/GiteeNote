@@ -35,8 +35,7 @@
               "title": "MySQL修改密码和用户登录地址"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/MySQL/MySQL修改密码和用户登录地址.md",
+                "file": "笔记/VSCode/C++调试配置文件备份.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "MySQL修改密码和用户登录地址 的反向链接列表"
+              "title": "C++调试配置文件备份 的反向链接列表"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/MySQL/MySQL修改密码和用户登录地址.md",
+                "file": "笔记/VSCode/C++调试配置文件备份.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "MySQL修改密码和用户登录地址 的出链列表"
+              "title": "C++调试配置文件备份 的出链列表"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/MySQL/MySQL修改密码和用户登录地址.md",
+                "file": "笔记/VSCode/C++调试配置文件备份.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MySQL修改密码和用户登录地址 的大纲"
+              "title": "C++调试配置文件备份 的大纲"
             }
           },
           {
@@ -191,17 +190,18 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "24f7327c315805d7",
   "lastOpenFiles": [
-    "笔记/MySQL/WSL安装MYSQL.md",
+    "笔记/MySQL/MySQL修改密码和用户登录地址.md",
     "笔记/VSCode/C++调试配置文件备份.md",
+    "笔记/MySQL/WSL安装MYSQL.md",
     "第二课.md",
     "C++教学",
     "投资/基础.md",
-    "笔记/MySQL/MySQL修改密码和用户登录地址.md",
     "投资",
     "笔记/毕设/时间思路.md",
     "笔记/毕设/Segformer.md",
